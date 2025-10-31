@@ -23,5 +23,28 @@ Route::middleware('auth')->group(function () {
     Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
     Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
 });
+Route::middleware(['auth'])->group(function () {
 
+    // Accessible uniquement aux super-admins
+    Route::middleware(['role:super-admin'])->group(function () {
+        Route::get('/admin', function () {
+            return view('dashboard.admin');
+        })->name('admin.dashboard');
+    });
+
+    // Accessible uniquement aux agents
+    Route::middleware(['role:agent'])->group(function () {
+        Route::get('/agent', function () {
+            return view('dashboard.agent');
+        })->name('agent.dashboard');
+    });
+
+    // Accessible uniquement aux visiteurs
+    Route::middleware(['role:visiteur'])->group(function () {
+        Route::get('/visiteur', function () {
+            return view('dashboard.visiteur');
+        })->name('visiteur.dashboard');
+    });
+
+});
 require __DIR__.'/auth.php';

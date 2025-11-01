@@ -10,6 +10,8 @@ export default defineConfig({
     vue(),
     vueDevTools(),
   ],
+  assetsInclude: ['**/assets/font/*'],
+
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))

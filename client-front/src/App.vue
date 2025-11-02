@@ -12,4 +12,7 @@ export default {
 @import "/assets/css/bootstrap.min.css";
 @import "/assets/css/fontawesome.min.css";
 @import "/assets/css/plugin.css";
-@import "/assets/css/style.css";</style>
+@import "/assets/css/style.css";
+
+
+</style>

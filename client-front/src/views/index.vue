@@ -244,9 +244,12 @@
       <div class="white-overlay"></div>
     </section>
     <!-- about-us ends -->
-  
 
-<FooterComponent/>
+<FaqAccordion/>
+<TeamComponent/>
+
+
+  <FooterComponent/>
 
   
   </div>
@@ -260,6 +263,9 @@
 import HeaderComponent from "../components/header.vue";
 import BannerComponent from "../components/banner.vue";
 import FooterComponent from "../components/footer.vue";
+import FaqAccordion from "../components/FaqAccordion.vue";
+import TeamComponent from "../components/team.vue";
+
 
 
 export default {
@@ -267,7 +273,10 @@ export default {
   components: {
     HeaderComponent,
     BannerComponent,
-    FooterComponent, // ✅ Déclaration ici
+    FooterComponent, 
+    FaqAccordion,
+    TeamComponent, 
+// ✅ Déclaration ici
   },
   mounted() {
     console.log("Tours List page loaded");
@@ -276,10 +285,6 @@ export default {
 </script>
 
 <style scoped>
-/* Exemple dans style.css */
-@font-face {
-  font-family: 'MyFont';
-  src: url('/assets/fonts/MyFont.woff2') format('woff2');
-}
+
 
 </style>

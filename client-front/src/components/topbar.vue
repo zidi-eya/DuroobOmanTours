@@ -8,17 +8,17 @@
           <ul>
             <li>
               <a RouterLink to="/" class="white">
-                <i class="icon-calendar white"></i> Thursday, Mar 26, 2021
+                <i class="icon-calendar white"></i> Monday, Nov 02, 2025
               </a>
             </li>
             <li>
               <a href="#" class="white">
-                <i class="icon-location-pin white"></i> Hollywood, America
+                <i class="icon-location-pin white"></i> Oman
               </a>
             </li>
             <li>
               <a href="#" class="white">
-                <i class="icon-clock white"></i> Mon-Fri: 10 AM – 5 PM
+                <i class="icon-clock white"></i> Sat-Fri: 8 AM – 5 PM
               </a>
             </li>
           </ul>

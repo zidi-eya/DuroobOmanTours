@@ -12,27 +12,21 @@
             <!-- Brand -->
             <div class="navbar-header">
               <RouterLink to="/" class="navbar-brand">
-                <img src="/assets/images/logo.png" alt="logo" style="width: 210px;background-color:black;" />
+                <img src="/assets/images/logo.png" alt="logo" style="width: 210px;" />
               </RouterLink>
             </div>
 
             <!-- Navigation Links -->
             <div class="navbar-collapse1 d-flex align-items-center" id="bs-example-navbar-collapse-1">
               <ul class="nav navbar-nav" id="responsive-menu">
-                <li>Home</li>
-                <li>About</li>
-
-                <li>Destinations</li>
-                 <li>Ttours</li>
-                <li>Contact</li>
+               
 
                
-               <!--  <li><RouterLink to="/" class="nav-link">Home</RouterLink></li>
-                <li><RouterLink to="/about" class="nav-link">About Us</RouterLink></li>
-                <li><RouterLink to="/destinations" class="nav-link">Destinations</RouterLink></li>
-                <li><RouterLink to="/tours" class="nav-link">Tours</RouterLink></li>
+                 <li><RouterLink to="/" class="nav-link">Home</RouterLink></li>
+                <li><RouterLink to="/about" class="nav-link">Packs</RouterLink></li>
+                <li><RouterLink to="/rentcar" class="nav-link">Rent Car</RouterLink></li>
                 <li><RouterLink to="/contact" class="nav-link">Contact</RouterLink></li>
-             --> </ul> 
+            </ul> 
             </div>
 
             <!-- Login / CTA -->

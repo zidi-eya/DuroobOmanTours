@@ -5,12 +5,12 @@
           <!-- Left Image Section -->
           <div class="col-lg-6">
             <div class="d-flex justify-content-end position-relative mb-5 mb-lg-0">
-              <img src="/assets/images/destination/destination6.jpg" alt="Hiking Tour" class="img-fluid rounded w-75 me-lg-4" />
+              <img src="/assets/images/destination/destination7.jpeg" alt="Hiking Tour" class="img-fluid rounded w-75 me-lg-4" />
               <div class="tag-card">
                 <strong>Beach Ready Tour</strong><br />
                 <small class="text-muted"><i class="icon-location-pin theme1"></i> Florida, USA</small>
               </div>
-              <img src="/assets/images/new-deal/deal11.jpg" alt="Lake View" class="img-fluid stacked-img" style="width: 200px" />
+              <img src="/assets/images/destination/destination6.jpeg" alt="Lake View" class="img-fluid stacked-img" style="width: 200px" />
             </div>
           </div>
   <div class="col-lg-6">
@@ -73,7 +73,7 @@ export default {
         {
           question: "What should I pack for my trip?",
           answer:
-            "Fusce sed nulla ultricies, viverra lacus euismod, elementum mi. Fusce non dictum lorem. Sed semper dictum sapien sit amet volutpat.",
+            "We’ll help you create a personalized packing list based on your destination and trip type. Make sure to include essentials like travel documents, clothing, and personal items.",
         },
         {
           question: "Are there any travel restrictions I should know about?",

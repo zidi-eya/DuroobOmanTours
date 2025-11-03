@@ -8,7 +8,7 @@
         <div class="section-title mb-6 w-50 mx-auto text-center">
           <h4 class="mb-1 theme1">3 Step of The Perfect Tour</h4>
           <h2 class="mb-1">Find <span class="theme">Travel Perfection</span></h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+          <p>Plan, personalize, and enjoy — your perfect tour made simple in three easy steps.</p>
         </div>
 
         <!-- why us starts -->
@@ -22,7 +22,7 @@
                       <i class="icon-flag theme"></i>
                     </div>
                     <h4><a href="about.html">Tell Us What You want To Do</a></h4>
-                    <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
+                    <p class="mb-0">Share your dream activities and we’ll help you create the perfect adventure tailored to your interests.</p>
                   </div>
                 </div>
               </div>
@@ -33,7 +33,7 @@
                       <i class="icon-location-pin theme"></i>
                     </div>
                     <h4><a href="about.html">Share Your Travel Locations</a></h4>
-                    <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
+                    <p class="mb-0">Let us know where you’d love to go, and we’ll design routes that capture the best of every destination.</p>
                   </div>
                 </div>
               </div>
@@ -44,7 +44,7 @@
                       <i class="icon-directions theme"></i>
                     </div>
                     <h4><a href="about.html">Share Your Travel Preference</a></h4>
-                    <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
+                    <p class="mb-0">From luxury to adventure, customize your travel style for a journey that fits you perfectly.</p>
                   </div>
                 </div>
               </div>
@@ -55,7 +55,7 @@
                       <i class="icon-compass theme"></i>
                     </div>
                     <h4><a href="about.html">We are 100% Trusted Tour Agency</a></h4>
-                    <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
+                    <p class="mb-0">With years of experience and happy travelers worldwide, we guarantee safe, reliable, and memorable trips.</p>
                   </div>
                 </div>
               </div>
@@ -77,17 +77,18 @@
         <div class="section-title mb-6 w-50 mx-auto text-center">
           <h4 class="mb-1 theme1">Top Destinations</h4>
           <h2 class="mb-1">Explore <span class="theme">Top Destinations</span></h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+          <p>Discover the world’s most popular destinations and uncover breathtaking places waiting to be explored.</p>
         </div>
         <div class="row align-items-center">
           <div class="col-lg-5 mb-4">
             <div class="trend-item1">
               <div class="trend-image position-relative rounded">
-                <img src="/assets/images/destination/destination1.jpg" alt="image" />
+                <img src="/assets/images/destination/destination2.jpeg" alt="image" />
                 <div class="trend-content d-flex align-items-center justify-content-between position-absolute bottom-0 p-4 w-100 z-index">
                   <div class="trend-content-title">
-                    <h5 class="mb-0"><a href="tour-grid.html" class="theme1">England</a></h5>
-                    <h3 class="mb-0 white">London</h3>
+                    <h5 class="mb-0"><a href="tour-grid.html" class="theme1">                    <h3 class="mb-0 white">Oman</h3>
+</a></h5>
+                    <h3 class="mb-0 white">Oman</h3>
                   </div>
                   <span class="white bg-theme p-1 px-2 rounded">15 Tours</span>
                 </div>
@@ -100,11 +101,13 @@
               <div class="col-lg-6 col-md-6 col-sm-6 mb-4">
                 <div class="trend-item1">
                   <div class="trend-image position-relative rounded">
-                    <img src="/assets/images/destination/destination17.jpg" alt="image" />
+                    <img src="/assets/images/destination/destination1.jpg" alt="image" />
                     <div class="trend-content d-flex align-items-center justify-content-between position-absolute bottom-0 p-4 w-100 z-index">
                       <div class="trend-content-title">
-                        <h5 class="mb-0"><a href="tour-grid.html" class="theme1">Italy</a></h5>
-                        <h3 class="mb-0 white">Caspian Valley</h3>
+                        <h5 class="mb-0"><a href="tour-grid.html" class="theme1">                    <h3 class="mb-0 white">Oman</h3>
+</a></h5>
+                    <h3 class="mb-0 white">Oman</h3>
+                        <h3 class="mb-0 white"></h3>
                       </div>
                       <span class="white bg-theme p-1 px-2 rounded">18 Tours</span>
                     </div>
@@ -115,11 +118,13 @@
               <div class="col-lg-6 col-md-6 col-sm-6 mb-4">
                 <div class="trend-item1">
                   <div class="trend-image position-relative rounded">
-                    <img src="/assets/images/destination/destination14.jpg" alt="image" />
+                    <img src="/assets/images/destination/destination5.jpg" alt="image" />
                     <div class="trend-content d-flex align-items-center justify-content-between position-absolute bottom-0 p-4 w-100 z-index">
                       <div class="trend-content-title">
-                        <h5 class="mb-0"><a href="tour-grid.html" class="theme1">Tokyo</a></h5>
-                        <h3 class="mb-0 white">Japan</h3>
+                        <h5 class="mb-0"><a href="tour-grid.html" class="theme1">                    <h3 class="mb-0 white">Oman</h3>
+</a></h5>
+                        <h3 class="mb-0 white">                    <h3 class="mb-0 white">Oman</h3>
+</h3>
                       </div>
                       <span class="white bg-theme p-1 px-2 rounded">21 Tours</span>
                     </div>
@@ -130,11 +135,13 @@
               <div class="col-lg-6 col-md-6 col-sm-6 mb-4">
                 <div class="trend-item1">
                   <div class="trend-image position-relative rounded">
-                    <img src="/assets/images/destination/destination15.jpg" alt="image" />
+                    <img src="/assets/images/destination/destination3.jpg" alt="image" />
                     <div class="trend-content d-flex align-items-center justify-content-between position-absolute bottom-0 p-4 w-100">
                       <div class="trend-content-title">
-                        <h5 class="mb-0"><a href="tour-grid.html" class="theme1">Moscow</a></h5>
-                        <h3 class="mb-0 white">Russia</h3>
+                        <h5 class="mb-0"><a href="tour-grid.html" class="theme1">                    <h3 class="mb-0 white">Oman</h3>
+</a></h5>
+                        <h3 class="mb-0 white">                    <h3 class="mb-0 white">Oman</h3>
+</h3>
                       </div>
                       <span class="white bg-theme p-1 px-2 rounded">15 Tours</span>
                     </div>
@@ -145,11 +152,13 @@
               <div class="col-lg-6 col-md-6 col-sm-6 mb-4">
                 <div class="trend-item1">
                   <div class="trend-image position-relative rounded">
-                    <img src="/assets/images/destination/destination16.jpg" alt="image" />
+                    <img src="/assets/images/destination/destination4.jpg" alt="image" />
                     <div class="trend-content d-flex align-items-center justify-content-between position-absolute bottom-0 p-4 w-100 z-index">
                       <div class="trend-content-title">
-                        <h5 class="mb-0"><a href="tour-grid.html" class="theme1">Florida</a></h5>
-                        <h3 class="mb-0 white">America</h3>
+                        <h5 class="mb-0"><a href="tour-grid.html" class="theme1">                    <h3 class="mb-0 white">Oman</h3>
+</a></h5>
+                        <h3 class="mb-0 white">                    <h3 class="mb-0 white">Oman</h3>
+</h3>
                       </div>
                       <span class="white bg-theme p-1 px-2 rounded">32 Tours</span>
                     </div>
@@ -178,11 +187,14 @@
             <div class="col-lg-6 mb-4 ps-4">
               <div class="about-content text-center text-lg-start mb-4">
                 <h4 class="theme d-inline-block mb-0">Get To Know Us</h4>
-                <h2 class="border-b mb-2 pb-1">Explore All Tour of the world with us.</h2>
+                <h2 class="border-b mb-2 pb-1">Explore All Tour of Duroob Oman Tours.</h2>
                 <p class="border-b mb-2 pb-2">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-                  veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br /><br />Excepteur sint occaecat cupidatat non
-                  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                 Duroob Oman Tours is a travel agency based in Salalah, Oman, specialising in authentic and premium travel experiences throughout the Sultanate. With deep knowledge of Omani heritage and hospitality, the company offers tailor-made tours, private excursions, group trips, and reliable car rental services for visitors seeking comfort, culture, and adventure.
+                 <br /><br />Founded by Suhail Ali Jaboob, an Omani entrepreneur and visionary CEO, Duroob Oman Tours was established with a mission to showcase the natural wonders, rich traditions, and cultural depth of Oman. Guided by strong values of authenticity and excellence, the company is committed to delivering genuine experiences while honouring local heritage and preserving the beauty of the Dhofar region.
+
+<br /><br />The management team also includes Mohamed Anis Ben Amor, a Tunisian national and experienced Sales Manager. With solid expertise in tourism and international customer service, Anis plays a key role in developing the agency’s operations and ensuring exceptional guest satisfaction. His passion for travel and dedication to high-quality service make him an important asset to the company’s continued success.
+
+<br /><br />With a focus on quality, transparency, and personalised service, Duroob Oman Tours stands as a trusted partner for travellers wishing to explore Oman's mountains, beaches, desert, and historic sites.
                 </p>
                 <div class="about-listing">
                   <ul class="d-flex justify-content-between">
@@ -284,7 +296,4 @@ export default {
 };
 </script>
 
-<style scoped>
 
-
-</style>

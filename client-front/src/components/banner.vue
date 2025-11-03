@@ -11,7 +11,7 @@
         </div>
         <div class="banner-content">
           <div class="entry-meta mb-0">
-            <span class="entry-category"><a href="tour-grid.html" class="white"> Travelin</a></span>
+            <span class="entry-category"><a href="tour-grid.html" class="white"> Duroob Oman Tours</a></span>
           </div>
           <h1 class="mb-0"><a href="tour-single.html" class="white">Create Your Journey Joyfull Through Us</a></h1>
         </div>

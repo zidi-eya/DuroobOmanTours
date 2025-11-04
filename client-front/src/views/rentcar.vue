@@ -14,75 +14,11 @@
           <div class="banner-content text-center w-75 mx-auto">
             <h4 class="theme mb-0">Explore The World</h4>
             <h1>Search for the best car hire deals!</h1>
-            <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore</p>
+            <p class="mb-4">Find the best car rental offers at unbeatable prices. Choose from a wide range of vehicles and enjoy a smooth, reliable, and comfortable driving experience during your stay.
+</p>
           </div>
-          <div class="book-form bg-white box-shadow mx-auto p-4 pb-1 position-relative z-index1 rounded">
-            <div class="row d-flex align-items-center justify-content-between">
-              <div class="col-lg mb-2">
-                <div class="form-group">
-                  <div class="input-box">
-                    <label>Pick Up Location</label>
-                    <select class="niceSelect">
-                      <option value="1">city or airport</option>
-                      <option value="2">Argentina</option>
-                      <option value="3">Belgium</option>
-                      <option value="4">Canada</option>
-                      <option value="5">Denmark</option>
-                    </select>
-                  </div>
-                </div>
-              </div>
-              <div class="col-lg mb-2">
-                <div class="form-group">
-                  <div class="input-box">
-                    <label>Drop Off Location</label>
-                    <select class="niceSelect">
-                      <option value="1">city or airport</option>
-                      <option value="2">Argentina</option>
-                      <option value="3">Belgium</option>
-                      <option value="4">Canada</option>
-                      <option value="5">Denmark</option>
-                    </select>
-                  </div>
-                </div>
-              </div>
-              <div class="col-lg mb-2">
-                <div class="form-group">
-                  <div class="input-box">
-                    <label>Pick Up</label>
-                    <input type="date" name="Depart" />
-                  </div>
-                </div>
-              </div>
-              <div class="col-lg mb-2">
-                <div class="form-group">
-                  <div class="input-box">
-                    <label>Drop Off</label>
-                    <input type="date" name="Return" />
-                  </div>
-                </div>
-              </div>
-              <div class="col-lg mb-2">
-                <div class="form-group">
-                  <div class="input-box">
-                    <label>Passengers</label>
-                    <select class="niceSelect">
-                      <option value="1">2</option>
-                      <option value="2">3</option>
-                      <option value="3">4</option>
-                    </select>
-                  </div>
-                </div>
-              </div>
-              <div class="col-lg mb-2">
-                <div class="form-group mb-0 text-center">
-                  <label class="mb-3"></label>
-                  <a href="#" class="nir-btn w-100"><i class="fa fa-search mr-2"></i> Search Now</a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="car-slider top-minus-40 position-relative">
+         
+          <div class="car-slider top-minus-40 position-relative"style="margin-top:100px;">
             <div class="row about-slider">
               <div class="col-lg">
                 <img src="/assets/images/cars/3.jpg" alt="" class="rounded" />

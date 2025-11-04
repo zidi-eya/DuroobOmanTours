@@ -374,11 +374,11 @@
           <div class="call-banner-inner w-75 px-5">
             <div class="trend-content-main">
               <div class="trend-content mb-5 pb-2">
-                <h5 class="mb-1 theme">Love Where Your're Going</h5>
+                <h5 class="mb-1 theme">Love Where Your're Driving</h5>
                 <h2>
-                  <a href="car-detail.html">Explore Your Life, <span class="theme1"> Travel Where You Want!</span></a>
+                  <a href="car-detail.html">Discover New Roads,  <span class="theme1"> Go Wherever You Want!</span></a>
                 </h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <p>Enjoy the freedom of flexible car rentals designed for comfort, safety, and adventure.</p>
               </div>
               <div class="video-button position-relative ms-lg-5 text-center text-lg-start">
                 <div class="call-button">
@@ -456,8 +456,9 @@
       <div class="container">
         <div class="section-title mb-6 w-50 mx-auto text-center">
           <h4 class="mb-1 theme1">Why To Choose Us</h4>
-          <h2 class="mb-1">Find <span class="theme">Travel Perfection</span></h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+          <h2 class="mb-1">Find <span class="theme">Drive with Confidence
+</span></h2>
+          <p>Fast booking, quality cars, and trusted service — every trip starts right.</p>
         </div>
 
         <!-- why us starts -->
@@ -470,8 +471,8 @@
                     <div class="why-us-icon">
                       <i class="icon-flag theme"></i>
                     </div>
-                    <h4><a href="about.html">Tell Us What You want To Do</a></h4>
-                    <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
+                    <h4><a href="about.html">Choose Your Car Type</a></h4>
+                    <p class="mb-0">Find the perfect vehicle that matches your needs — from compact economy cars to spacious family vans and premium luxury SUVs.</p>
                   </div>
                 </div>
               </div>
@@ -481,8 +482,9 @@
                     <div class="why-us-icon">
                       <i class="icon-location-pin theme"></i>
                     </div>
-                    <h4><a href="about.html">Share Your Travel Locations</a></h4>
-                    <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
+                    <h4><a href="about.html">Select Pickup & Drop-off Location
+</a></h4>
+                    <p class="mb-0">Easily choose where you want to pick up and return your car with flexible options.</p>
                   </div>
                 </div>
               </div>
@@ -492,8 +494,8 @@
                     <div class="why-us-icon">
                       <i class="icon-directions theme"></i>
                     </div>
-                    <h4><a href="about.html">Share Your Travel Preference</a></h4>
-                    <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
+                    <h4><a href="about.html">Set Your Rental Duration</a></h4>
+                    <p class="mb-0">Decide how long you need the car — daily, weekly, or long-term rentals available.</p>
                   </div>
                 </div>
               </div>
@@ -503,8 +505,8 @@
                     <div class="why-us-icon">
                       <i class="icon-compass theme"></i>
                     </div>
-                    <h4><a href="about.html">We are 100% Trusted Tour Agency</a></h4>
-                    <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
+                    <h4><a href="about.html">Enjoy Reliable & Affordable Service</a></h4>
+                    <p class="mb-0">We guarantee well-maintained cars, transparent pricing, and 24/7 customer support.</p>
                   </div>
                 </div>
               </div>

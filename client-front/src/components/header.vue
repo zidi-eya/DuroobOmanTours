@@ -29,13 +29,13 @@
             </ul> 
             </div>
 
-            <!-- Login / CTA -->
-            <div class="register-login d-flex align-items-center">
+            
+            <!--<div class="register-login d-flex align-items-center">
               <a href="#" class="me-3" data-bs-toggle="modal" data-bs-target="#exampleModal">
                 <i class="icon-user"></i> Login/Register
               </a>
-              <RouterLink to="/booking" class="nir-btn white">Book Now</RouterLink>-->
-            </div>
+              <RouterLink to="/booking" class="nir-btn white">Book Now</RouterLink>
+            </div>-->
 
             <div id="slicknav-mobile"></div>
           </div>

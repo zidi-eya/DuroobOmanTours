@@ -122,7 +122,14 @@
         <div class="container">
           <div class="copyright-inner rounded p-3 d-md-flex align-items-center justify-content-between">
             <div class="copyright-text">
-              <p class="m-0 white">2025 Duroob Oman Tours. All rights reserved To ZIDI EYA  <span style="color: red;">❤</span>.</p>
+              <p class="m-0 white">2025 Duroob Oman Tours. All rights reserved To   <a 
+    href="https://wa.me/21629310122" 
+    target="_blank" 
+    style="color: #fff; text-decoration: underline;"
+  >
+    ZIDI EYA
+  </a> 
+ <span style="color: red;">❤</span>.</p>
             </div>
             <div class="social-links">
               <ul>

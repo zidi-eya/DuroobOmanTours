@@ -34,7 +34,7 @@
               <a href="#" class="me-3" data-bs-toggle="modal" data-bs-target="#exampleModal">
                 <i class="icon-user"></i> Login/Register
               </a>
-              <RouterLink to="/booking" class="nir-btn white">Book Now</RouterLink>
+              <RouterLink to="/booking" class="nir-btn white">Book Now</RouterLink>-->
             </div>
 
             <div id="slicknav-mobile"></div>

@@ -104,6 +104,7 @@ jQuery(document).ready(function () {
     */
 
     var header = document.getElementById('header_menu');
+    if (!header) return;
     var toggled;
     var threshold = 200;
 

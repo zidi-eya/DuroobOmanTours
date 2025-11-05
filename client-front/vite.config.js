@@ -11,10 +11,20 @@ export default defineConfig({
     vueDevTools(),
   ],
   assetsInclude: ['**/assets/font/*'],
+  define: {
+        'process.env': {}
 
+  },
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
     },
   },
 })
+
+
+
+
+
+
+

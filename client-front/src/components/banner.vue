@@ -3,9 +3,9 @@
       <div class="banner-main">
         <div class="banner-image">
           <div class="video-banner">
-            <video autoplay muted loop id="vid" class="w-100">
+           <!-- <video autoplay muted loop id="vid" class="w-100">
               <source src="/assets/images/tour.MP4" type="video/mp4" />
-            </video>
+            </video>-->
           </div>
           <div class="dot-overlay"></div>
         </div>

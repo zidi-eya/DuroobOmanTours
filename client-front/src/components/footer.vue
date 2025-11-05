@@ -1,25 +1,89 @@
-  
-    <template>
-    <div>
-    <footer class="pt-20 pb-4" style="background-image: url(/assets/images/background_pattern.png)">
-      <div class="section-shape top-0" style="background-image: url(/assets/images/shape8.png)"></div>
+<template>
+  <div>
+    <footer
+      class="pt-20 pb-4"
+      style="background-image: url(/assets/images/background_pattern.png)"
+    >
+      <div
+        class="section-shape top-0"
+        style="background-image: url(/assets/images/shape8.png)"
+      ></div>
       <!-- Instagram starts -->
       <div class="insta-main pb-10">
-          <div class="container">
-      <div class="insta-inner  position-relative">
-        <div class="follow-button">
-          <h5 class="m-0 rounded"><i class="fab fa-instagram"></i> Follow on Instagram</h5>
+        <div class="container">
+          <div class="insta-inner">
+            <div class="follow-button">
+              <h5 class="m-0 rounded">
+                <i class="fab fa-instagram"></i> Follow on Instagram
+              </h5>
+            </div>
+            <div class="row attract-slider">
+              <div class="col-md-3 col-sm-6">
+                <div class="insta-image rounded">
+                  <a href="gallery.html"
+                    ><img src="/assets/images/destination/destination3.jpg" alt="insta"
+                  /></a>
+                </div>
+              </div>
+              <div class="col-md-3 col-sm-6">
+                <div class="insta-image rounded">
+                  <a href="gallery.html"
+                    ><img src="/assets/images/destination/destination4.jpg" alt="insta"
+                  /></a>
+                </div>
+              </div>
+              <div class="col-md-3 col-sm-6">
+                <div class="insta-image rounded">
+                  <a href="gallery.html"
+                    ><img src="/assets/images/destination/destination5.jpg" alt="insta"
+                  /></a>
+                </div>
+              </div>
+              <div class="col-md-3 col-sm-6">
+                <div class="insta-image rounded">
+                  <a href="gallery.html"
+                    ><img src="/assets/images/destination/destination1.jpg" alt="insta"
+                  /></a>
+                </div>
+              </div>
+              <div class="col-md-3 col-sm-6">
+                <div class="insta-image rounded">
+                  <a href="gallery.html"
+                    ><img src="/assets/images/destination/destination1.jpg" alt="insta"
+                  /></a>
+                </div>
+              </div>
+              <div class="col-md-3 col-sm-6">
+                <div class="insta-image rounded">
+                  <a href="gallery.html"
+                    ><img src="/assets/images/destination/destination1.jpg" alt="insta"
+                  /></a>
+                </div>
+              </div>
+              <div class="col-md-3 col-sm-6">
+                <div class="insta-image rounded">
+                  <a href="gallery.html"
+                    ><img src="/assets/images/destination/destination2.jpeg" alt="insta"
+                  /></a>
+                </div>
+              </div>
+              <div class="col-md-3 col-sm-6">
+                <div class="insta-image rounded">
+                  <a href="gallery.html"
+                    ><img src="/assets/images/destination/destination1.jpg" alt="insta"
+                  /></a>
+                </div>
+              </div>
+              <div class="col-md-3 col-sm-6">
+                <div class="insta-image rounded">
+                  <a href="gallery.html"
+                    ><img src="/assets/images/destination/destination9.jpg" alt="insta"
+                  /></a>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
-
-        <Carousel :itemsToShow="6" :wrapAround="true" :autoplay="2000" class="mt-6">
-    <Slide v-for="(img, i) in images" :key="i">
-      <div class="insta-image rounded overflow-hidden">
-        <img :src="img" alt="insta" class="rounded-md object-cover w-full h-48" />
-      </div>
-    </Slide>
-  </Carousel>
-      </div>
-    </div>
       </div>
       <!-- Instagram ends -->
       <div class="footer-upper pb-4">
@@ -27,9 +91,11 @@
           <div class="row">
             <div class="col-lg-4 col-md-6 col-sm-12 mb-4 pe-4">
               <div class="footer-about">
-                <img src="/assets/images/Asset 204.png" alt="" style="width:250px;" />
+                <img src="/assets/images/Asset 204.png" alt="" style="width: 250px" />
                 <p class="mt-3 mb-3 white">
-                Duroob Oman Tours offers authentic, premium travel experiences across Oman, blending comfort, culture, and adventure with true Omani hospitality.
+                  Duroob Oman Tours offers authentic, premium travel experiences across
+                  Oman, blending comfort, culture, and adventure with true Omani
+                  hospitality.
                 </p>
                 <ul>
                   <li class="white"><strong>PO Box:</strong> +47-252-254-2542</li>
@@ -40,11 +106,15 @@
               </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
-              <div class="footer-links" style="margin-left: 100px;">
+              <div class="footer-links" style="margin-left: 100px">
                 <h3 class="white">Quick link</h3>
                 <ul>
-                  <li><RouterLink to="/contact" class="nav-link">Contact Us</RouterLink></li>
-                     <li><RouterLink to="/rentcar" class="nav-link">Rent Car</RouterLink></li>
+                  <li>
+                    <RouterLink to="/contact" class="nav-link">Contact Us</RouterLink>
+                  </li>
+                  <li>
+                    <RouterLink to="/rentcar" class="nav-link">Rent Car</RouterLink>
+                  </li>
 
                   <li><RouterLink to="/packs" class="nav-link">Packs </RouterLink></li>
                 </ul>
@@ -55,15 +125,13 @@
                 <h3 class="white">Categories</h3>
                 <ul>
                   <li>Tours</li>
-                   <li>Camping</li>
+                  <li>Camping</li>
                   <li>Rent Car</li>
-                   <li>Hotels</li>
-
-                
+                  <li>Hotels</li>
                 </ul>
               </div>
             </div>
-          <!--  <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
+            <!--  <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
               <div class="footer-links">
                 <h3 class="white">Newsletter</h3>
                 <div class="newsletter-form">
@@ -120,16 +188,21 @@
 
       <div class="footer-copyright">
         <div class="container">
-          <div class="copyright-inner rounded p-3 d-md-flex align-items-center justify-content-between">
+          <div
+            class="copyright-inner rounded p-3 d-md-flex align-items-center justify-content-between"
+          >
             <div class="copyright-text">
-              <p class="m-0 white">2025 Duroob Oman Tours. All rights reserved To   <a 
-    href="https://wa.me/21629310122" 
-    target="_blank" 
-    style="color: #fff; text-decoration: underline;"
-  >
-    ZIDI EYA
-  </a> 
- <span style="color: red;">❤</span>.</p>
+              <p class="m-0 white">
+                2025 Duroob Oman Tours. All rights reserved To
+                <a
+                  href="https://wa.me/21629310122"
+                  target="_blank"
+                  style="color: #fff; text-decoration: underline"
+                >
+                  ZIDI EYA
+                </a>
+                <span style="color: red">❤</span>.
+              </p>
             </div>
             <div class="social-links">
               <ul>
@@ -142,7 +215,6 @@
                 <li>
                   <a href="#"><i class="fab fa-instagram" aria-hidden="true"></i></a>
                 </li>
-                
               </ul>
             </div>
           </div>
@@ -150,44 +222,64 @@
       </div>
       <div id="particles-js"></div>
     </footer>
-    </div>
+  </div>
+</template>
+<script setup>
+import { onMounted, nextTick } from "vue";
+import $ from "jquery";
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
+import "slick-carousel";
 
-    </template>
-   <script setup>
-import { Carousel, Slide } from 'vue3-carousel'
-import 'vue3-carousel/dist/carousel.css'
-
-const images = [
-  '/assets/images/destination/destination3.jpg',
-  '/assets/images/destination/destination4.jpg',
-  '/assets/images/destination/destination5.jpg',
-  '/assets/images/destination/destination1.jpg',
-]
+onMounted(async () => {
+  $(".attract-slider").slick({
+    infinite: true,
+    slidesToShow: 8,
+    slidesToScroll: 1,
+    arrows: false,
+    dots: false,
+    speed: 2000,
+    rows: 0,
+    autoplay: true,
+    draggable: false,
+    responsive: [
+      {
+        breakpoint: 1000,
+        settings: {
+          slidesToShow: 4,
+        },
+      },
+      {
+        breakpoint: 600,
+        settings: {
+          slidesToShow: 3,
+        },
+      },
+      {
+        breakpoint: 500,
+        settings: {
+          slidesToShow: 2,
+        },
+      },
+    ],
+  });
+});
 </script>
 
- <style scoped>
-.insta-inner {
-  position: relative;
+<style scoped>
+.insta-image {
+  width: 140px;
+  height: 140px;
+  overflow: hidden;
 }
 
-.follow-button {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  z-index: 20;
-  text-align: center;
+.insta-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 8px; /* optional, keeps rounded look */
 }
 
-.follow-button h5 {
-  background: #fff;
-  color: #000;
-  padding: 12px 30px;
-  border-radius: 15px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-  font-weight: 600;
-  display: inline-block;
-}
 
 
 </style>

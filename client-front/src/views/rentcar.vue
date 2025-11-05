@@ -23,13 +23,13 @@
         <div class="car-slider top-minus-40 position-relative" style="margin-top: 100px">
           <div class="row about-slider">
             <div class="col-lg">
-              <img src="/assets/images/cars/car (2).jpg" alt="" class="rounded" />
+              <img src="/assets/images/cars/car (1).jpg" alt="" class="rounded" />
             </div>
             <div class="col-lg">
-              <img src="/assets/images/cars/car (2).jpg" alt="" class="rounded" />
+              <img src="/assets/images/cars/car (4).jpg" alt="" class="rounded" />
             </div>
             <div class="col-lg">
-              <img src="/assets/images/cars/car (2).jpg" alt="" class="rounded" />
+              <img src="/assets/images/cars/car (5).jpg" alt="" class="rounded" />
             </div>
           </div>
         </div>
@@ -45,10 +45,7 @@
             class="category-item box-shadow p-3 py-4 text-center bg-white rounded overflow-hidden"
           >
             <div class="trending-topic-content">
-              <img
-                src="/assets/images/cars/cars1.png"
-                class="mb-1 d-inline-block"
-                alt=""
+              <img src="/assets/images/cars/cars1.png" class="mb-1 d-inline-block"  alt=""
               />
               <h5 class="mb-0"><a href="car-grid.html">Compact</a></h5>
             </div>
@@ -143,7 +140,7 @@
   </div>
 
   <!-- Last Minute Deal Starts -->
-  <section class="trending pb-6 pt-6" style="background-image: url(images/shape2.png)">
+  <section class="trending pb-6 pt-6" style="background-image: url(/assets/images/shape2.png)">
     <div class="container">
       <div class="section-title mb-6 w-75 mx-auto text-center">
         <h4 class="mb-1 theme1">OFFER DEALS</h4>
@@ -589,7 +586,7 @@
       </div>
       <div class="trend-box">
         <div class="row item-slider">
-            <div class="col-lg-4 col-md-6 mb-4">
+          <div class="col-lg-4 col-md-6 mb-4">
             <div class="trend-item rounded box-shadow">
               <div class="trend-image position-relative">
                 <img src="/assets/images/cars/car (1).avif" alt="image" class="" />
@@ -680,7 +677,7 @@
               </div>
             </div>
           </div>
-         <div class="col-lg-4 col-md-6 mb-4">
+          <div class="col-lg-4 col-md-6 mb-4">
             <div class="trend-item rounded box-shadow">
               <div class="trend-image position-relative">
                 <img src="/assets/images/cars/car (7).jpg" alt="image" class="" />
@@ -750,7 +747,7 @@
               </div>
 
               <div class="video-figure">
-                <video
+               <!-- <video
                   id="localVideo"
                   class="w-100"
                   style="display: none; border-radius: 15px"
@@ -758,7 +755,7 @@
                 >
                   <source src="/assets/images/tour.MP4" type="video/mp4" />
                   Your browser does not support the video tag.
-                </video>
+                </video>-->
               </div>
             </div>
           </div>
@@ -1140,71 +1137,70 @@
     </div>
   </div>
 </template>
-<script>
-
-
-import { onMounted } from 'vue'
+<script setup>
+import { onMounted, nextTick } from 'vue'
 import $ from 'jquery'
 import 'slick-carousel/slick/slick.css'
 import 'slick-carousel/slick/slick-theme.css'
 import 'slick-carousel'
 
-onMounted(() => {
-  $('.side-slider').slick({
-    infinite: true,
-    slidesToShow: 6,
+import HeaderComponent from '../components/header.vue'
+import FooterComponent from '../components/footer.vue'
+import BannerComponent from '../components/banner.vue'
+import FaqAccordion from '../components/FaqAccordion.vue'
+import TeamComponent from '../components/team.vue'
+
+onMounted(async () => {
+  await nextTick() // ensures DOM is ready before initializing Slick
+
+  if ($('.side-slider').length && !$('.side-slider').hasClass('slick-initialized')) {
+    $('.side-slider').slick({
+      infinite: true,
+      slidesToShow: 6,
+      slidesToScroll: 1,
+      autoplay: true,
+      arrows: false,
+      dots: false,
+      speed: 4000,
+               loop:true,
+
+      responsive: [
+        {
+          breakpoint: 1000,
+          settings: { slidesToShow: 3 }
+        },
+        {
+          breakpoint: 500,
+          settings: { slidesToShow: 1 }
+        }
+      ]
+    })
+  }
+   $('.about-slider').slick({
+    slidesToShow: 1,
     slidesToScroll: 1,
-    arrows: false,
-    rows: 0,
-    dots: false,
     autoplay: true,
-    speed: 4000,
-    loop: true,
-    responsive: [
-      { breakpoint: 1000, settings: { slidesToShow: 3 } },
-      { breakpoint: 811, settings: { slidesToShow: 2 } },
-      { breakpoint: 500, settings: { slidesToShow: 1 } },
-    ],
+    autoplaySpeed: 1000,
+    arrows: false,
+    dots: false,
+    infinite: true,
+    centerMode: true,
+    variableWidth: false,
+     responsive: [{
+             breakpoint: 700,
+             settings: {
+                 arrows:false
+             }
+         }]
   })
+ 
+
 })
-
-//fff
-
-document.addEventListener("DOMContentLoaded", () => {
-  const btn = document.getElementById("playLocalVideo");
-  const video = document.getElementById("localVideo");
-
-  btn.addEventListener("click", () => {
-    // Hide the play button
-    btn.style.display = "none";
-
-    // Show and play the video inline (inside same section)
-    video.style.display = "block";
-    video.currentTime = 0;
-    video.play();
-  });
-});
-import HeaderComponent from "../components/header.vue";
-import BannerComponent from "../components/banner.vue";
-import FooterComponent from "../components/footer.vue";
-import FaqAccordion from "../components/FaqAccordion.vue";
-import TeamComponent from "../components/team.vue";
-
-export default {
-  name: "ToursListView",
-  components: {
-    HeaderComponent,
-    BannerComponent,
-    FooterComponent,
-    FaqAccordion,
-    TeamComponent,
-    // ✅ Déclaration ici
-  },
-  mounted() {
-    console.log("Tours List page loaded");
-  },
-};
 </script>
+
+
+
+
 <style>
 .car-page .trend-image {
   width: 100%;

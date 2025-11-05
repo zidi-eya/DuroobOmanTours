@@ -15,10 +15,10 @@
     <div class="breadcrumb-outer">
       <div class="container">
         <div class="breadcrumb-content text-center">
-          <h1 class="mb-3">Desert - OVERNIGHT</h1>
+          <h1 class="mb-3">Jebel Safari</h1>
           <nav aria-label="breadcrumb" class="d-block">
             <ul class="breadcrumb">
-              <li class="breadcrumb-item"><a href="#">Home</a></li>
+              <li class="breadcrumb-item"><a href="/">Home</a></li>
               <li class="breadcrumb-item active" aria-current="page">
                 Destination Detail
               </li>
@@ -40,10 +40,10 @@
             <div id="highlight" class="mb-4">
               <div class="single-full-title border-b mb-2 pb-2">
                 <div class="single-title">
-                  <h2 class="mb-1">Desert OverNight Pack</h2>
+                  <h2 class="mb-1">Jebel Safari Pack</h2>
                   <div class="rating-main d-flex align-items-center">
                     <p class="mb-0 me-2">
-                      <i class="icon-location-pin"></i> the Rub Al Khali, Oman
+                      <i class="icon-location-pin"></i>Jebel Safari ,Salalah- Oman
                     </p>
                     <div class="rating me-2">
                       <span class="fa fa-star checked"></span>
@@ -59,7 +59,7 @@
 
               <div class="description-images mb-4">
                 <img
-                  src="/assets/images/destination/destination10.avif"
+                  src="/assets/images/destination/jebal (10).jpeg"
                   alt=""
                   class="w-100 rounded"
                 />
@@ -67,88 +67,69 @@
 
               <div class="description mb-2">
                 <h4>Description</h4>
+                <h4>Full Day Jebel Safari – Salalah (Approx. 8 Hours)</h4>
+                Experience the Natural Wonders & Heritage of East Salalah
+
                 <p>
-                  Depart in the afternoon from Salalah and travel through Thumrait, once
-                  an important Bedouin settlement, before crossing the vast Al Nejd
-                  plains. As the landscape transforms, enter the majestic dunes of the Rub
-                  Al Khali (Empty Quarter), where an exhilarating dune-bashing experience
-                  awaits, guided by our expert desert driver.
+                  Embark on a memorable full-day journey through the breathtaking
+                  mountains and historic treasures of East Salalah. With Duroob Oman
+                  Tours, explore a blend of culture, nature, and mystery, guided by
+                  passionate local experts committed to delivering an authentic Omani
+                  experience.
                 </p>
 
                 <p>
-                  Arrive in the heart of the dunes to witness a breathtaking sunset
-                  painting the desert in shades of gold and amber. Reach the traditional
-                  desert camp and enjoy warm Arabian hospitality with local coffee, dates,
-                  and a delicious dinner prepared in true Bedouin style. Spend a peaceful
-                  evening under the stars, wrapped in the serenity of the desert, with the
-                  option to enjoy Shisha by the campfire. A perfect way to experience the
-                  silence and mystique of the night desert.
+                  Begin your adventure at Taqah Castle, a beautifully restored coastal
+                  fortress showcasing traditional Omani heritage, architecture, and royal
+                  family history. Continue to the iconic Ruins of Sumhuram, a UNESCO World
+                  Heritage Site once famed for its frankincense trade routes and strategic
+                  maritime importance. Enjoy panoramic views over the tranquil Khor Rori
+                  lagoon, where camels and birds gather by the water.
                 </p>
 
                 <p>
-                  Wake up to a calm desert sunrise, followed by breakfast at the camp.
-                  Continue to the legendary Lost City of Ubar, a UNESCO-listed
-                  archaeological site believed to be the ancient “Atlantis of the Sands.”
-                  Explore its fascinating ruins and uncover stories of Oman’s rich trading
-                  history. Conclude the journey with a visit to Wadi Dawka, home to the
-                  natural frankincense trees of Oman and part of the UNESCO Frankincense
-                  Trail.
+                  Discover the majestic Tawi Atair Sinkhole, a natural geological wonder
+                  set amidst dramatic mountain terrain. A true gem for nature lovers. Then
+                  journey to the lush paradise of Wadi Darbat, renowned for its seasonal
+                  waterfalls, flowing streams, and rich greenery. A peaceful oasis ideal
+                  for photography, picnics, and relaxation.
                 </p>
 
                 <p>
-                  Return to Salalah with unforgettable memories of the desert’s timeless
-                  beauty, Bedouin hospitality, and rich history.
+                  Ascend to Jebel Samhan, offering spectacular viewpoints over deep
+                  canyons and breathtaking mountain cliffs stretching toward the Arabian
+                  Sea, often covered by magical clouds and mist. Conclude your experience
+                  at the mysterious Anti-Gravity Point, where vehicles appear to defy
+                  gravity and roll uphill. A natural illusion that fascinates every
+                  visitor.
+                </p>
+                <p>
+                  A day full of culture, landscapes, and unforgettable moments. Crafted
+                  with care by Duroob Oman Tours.
                 </p>
               </div>
 
               <div class="description d-md-flex">
                 <div class="desc-box bg-grey p-4 rounded me-md-2 mb-2">
-                  <h5 class="mb-2">Price Includes</h5>
+                  <h5 class="mb-2">Tour Highlights</h5>
                   <ul>
                     <li class="d-block pb-1">
-                      <i class="fa fa-check pink mr-1"></i> Dunes du Rub Al Khali
+                      🏰 Taqah Castle – Traditional Omani fort & cultural history
                     </li>
                     <li class="d-block pb-1">
-                      <i class="fa fa-check pink mr-1"></i> Couché de soleil dans le
-                      désert
+                      🏺 Sumhuram Archaeological Site – UNESCO World Heritage Site
                     </li>
                     <li class="d-block pb-1">
-                      <i class="fa fa-check pink mr-1"></i> Campement traditionnel et
-                      diner arabe
+                      🌄 Tawi Atair Sinkhole – Majestic mountain landmark
                     </li>
                     <li class="d-block pb-1">
-                      <i class="fa fa-check pink mr-1"></i> Nuit sous les étoiles
+                      🌿 Wadi Darbat – Waterfalls, streams & lush valley
                     </li>
                     <li class="d-block">
-                      <i class="fa fa-check pink mr-1"></i> Lost City of Ubar (UNESCO)
+                      ⛰️ Jebel Samhan – Cloud-covered mountain viewpoints
                     </li>
                     <li class="d-block">
-                      <i class="fa fa-check pink mr-1"></i> Wadi Dawkah (UNESCO)
-                    </li>
-                    <li class="d-block">
-                      <i class="fa fa-check pink mr-1"></i> Café arabe & dattes
-                      traditionnelles
-                    </li>
-                    <li class="d-block">
-                      <i class="fa fa-check pink mr-1"></i>Dune-bashing avec conducteur
-                      expert
-                    </li>
-                  </ul>
-                </div>
-                <div class="desc-box bg-grey p-4 rounded ms-md-2 mb-2">
-                  <h4 class="mb-2">Departure & Return Location</h4>
-                  <ul>
-                    <li class="d-block pb-1">
-                      <i class="fa fa-close pink mr-1"></i> Guide Service Fee
-                    </li>
-                    <li class="d-block pb-1">
-                      <i class="fa fa-close pink mr-1"></i> Driver Service Fee
-                    </li>
-                    <li class="d-block pb-1">
-                      <i class="fa fa-close pink mr-1"></i> Any Private Expenses
-                    </li>
-                    <li class="d-block">
-                      <i class="fa fa-close pink mr-1"></i> Room Service Fees
+                      ✨ Anti-Gravity Point – Mysterious natural optical illusion
                     </li>
                   </ul>
                 </div>
@@ -164,14 +145,14 @@
                       <div class="gallery-item mb-4 rounded overflow-hidden">
                         <div class="gallery-image">
                           <img
-                            src="/assets/images/destination/destination9.jpg"
+                            src="/assets/images/destination/jebal (1).jpeg"
                             alt="image"
                           />
                           <div class="gallery-content">
                             <ul>
                               <li>
                                 <a
-                                  href="/assets/images/destination/destination9.jpg"
+                                  href="/assets/images/destination/jebal (1).jpeg"
                                   data-lightbox="gallery"
                                   data-title="Title"
                                   ><i class="fa fa-eye"></i
@@ -186,7 +167,7 @@
                       <div class="gallery-item mb-4 rounded overflow-hidden">
                         <div class="gallery-image">
                           <img
-                            src="/assets/images/destination/destination10.avif"
+                            src="/assets/images/destination/jebal (2).jpeg"
                             alt="image"
                           />
 
@@ -194,7 +175,7 @@
                             <ul>
                               <li>
                                 <a
-                                  href="/assets/images/destination/destination10.avif"
+                                  href="/assets/images/destination/jebal (2).jpeg"
                                   data-lightbox="gallery"
                                   data-title="Title"
                                   ><i class="fa fa-eye"></i
@@ -205,38 +186,18 @@
                         </div>
                       </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
-                      <div class="gallery-item mb-4 rounded overflow-hidden">
-                        <div class="gallery-image">
-                          <img src="/assets/images/destination/sun.jpg" alt="image" />
-                          <div class="gallery-content">
-                            <ul>
-                              <li>
-                                <a
-                                  href="/assets/images/destination/sun.jpg"
-                                  data-lightbox="gallery"
-                                  data-title="Title"
-                                  ><i class="fa fa-eye"></i
-                                ></a>
-                              </li>
-                            </ul>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-
                     <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
                       <div class="gallery-item mb-4 rounded overflow-hidden">
                         <div class="gallery-image">
                           <img
-                            src="/assets/images/destination/destination12.png"
+                            src="/assets/images/destination/jebal (3).jpeg"
                             alt="image"
                           />
                           <div class="gallery-content">
                             <ul>
                               <li>
                                 <a
-                                  href="/assets/images/destination/destination12.png"
+                                  href="/assets/images/destination/jebal (3).jpeg"
                                   data-lightbox="gallery"
                                   data-title="Title"
                                   ><i class="fa fa-eye"></i
@@ -252,14 +213,37 @@
                       <div class="gallery-item mb-4 rounded overflow-hidden">
                         <div class="gallery-image">
                           <img
-                            src="/assets/images/destination/destination14.jpeg"
+                            src="/assets/images/destination/jebal (4).jpeg"
                             alt="image"
                           />
                           <div class="gallery-content">
                             <ul>
                               <li>
                                 <a
-                                  href="/assets/images/destination/destination14.jpeg"
+                                  href="/assets/images/destination/jebal (4).jpeg"
+                                  data-lightbox="gallery"
+                                  data-title="Title"
+                                  ><i class="fa fa-eye"></i
+                                ></a>
+                              </li>
+                            </ul>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                      <div class="gallery-item mb-4 rounded overflow-hidden">
+                        <div class="gallery-image">
+                          <img
+                            src="/assets/images/destination/jebal (5).jpeg"
+                            alt="image"
+                          />
+                          <div class="gallery-content">
+                            <ul>
+                              <li>
+                                <a
+                                  href="/assets/images/destination/jebal (5).jpeg"
                                   data-lightbox="gallery"
                                   data-title="Title"
                                   ><i class="fa fa-eye"></i
@@ -275,14 +259,14 @@
                       <div class="gallery-item mb-4 rounded overflow-hidden">
                         <div class="gallery-image">
                           <img
-                            src="/assets/images/destination/destination13.jpeg"
+                            src="/assets/images/destination/jebal (6).jpeg"
                             alt="image"
                           />
                           <div class="gallery-content">
                             <ul>
                               <li>
                                 <a
-                                  href="/assets/images/destination/destination13.jpeg"
+                                  href="/assets/images/destination/jebal (6).jpeg"
                                   data-lightbox="gallery"
                                   data-title="Title"
                                   ><i class="fa fa-eye"></i
@@ -298,14 +282,14 @@
                       <div class="gallery-item mb-4 rounded overflow-hidden">
                         <div class="gallery-image">
                           <img
-                            src="/assets/images/destination/destination15.jpeg"
+                            src="/assets/images/destination/jebal (7).jpeg"
                             alt="image"
                           />
                           <div class="gallery-content">
                             <ul>
                               <li>
                                 <a
-                                  href="/assets/images/destination/destination15.jpeg"
+                                  href="/assets/images/destination/jebal (7).jpeg"
                                   data-lightbox="gallery"
                                   data-title="Title"
                                   ><i class="fa fa-eye"></i
@@ -321,14 +305,14 @@
                       <div class="gallery-item mb-4 rounded overflow-hidden">
                         <div class="gallery-image">
                           <img
-                            src="/assets/images/destination/destination2.jpeg"
+                            src="/assets/images/destination/jebal (8).jpeg"
                             alt="image"
                           />
                           <div class="gallery-content">
                             <ul>
                               <li>
                                 <a
-                                  href="/assets/images/destination/destination2.jpeg"
+                                  href="/assets/images/destination/jebal (8).jpeg"
                                   data-lightbox="gallery"
                                   data-title="Title"
                                   ><i class="fa fa-eye"></i
@@ -344,14 +328,105 @@
                       <div class="gallery-item mb-4 rounded overflow-hidden">
                         <div class="gallery-image">
                           <img
-                            src="/assets/images/destination/destination1.jpg"
+                            src="/assets/images/destination/jebal (9).jpeg"
                             alt="image"
                           />
                           <div class="gallery-content">
                             <ul>
                               <li>
                                 <a
-                                  href="/assets/images/destination/destination1.jpg"
+                                  href="/assets/images/destination/jebal (9).jpeg"
+                                  data-lightbox="gallery"
+                                  data-title="Title"
+                                  ><i class="fa fa-eye"></i
+                                ></a>
+                              </li>
+                            </ul>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+                   
+                    <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
+                      <div class="gallery-item mb-4 rounded overflow-hidden">
+                        <div class="gallery-image">
+                          <img
+                            src="/assets/images/destination/jebal (11).jpeg"
+                            alt="image"
+                          />
+                          <div class="gallery-content">
+                            <ul>
+                              <li>
+                                <a
+                                  href="/assets/images/destination/jebal (11).jpeg"
+                                  data-lightbox="gallery"
+                                  data-title="Title"
+                                  ><i class="fa fa-eye"></i
+                                ></a>
+                              </li>
+                            </ul>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
+                      <div class="gallery-item mb-4 rounded overflow-hidden">
+                        <div class="gallery-image">
+                          <img
+                            src="/assets/images/destination/jebal (12).jpeg"
+                            alt="image"
+                          />
+                          <div class="gallery-content">
+                            <ul>
+                              <li>
+                                <a
+                                  href="/assets/images/destination/jebal (12).jpeg"
+                                  data-lightbox="gallery"
+                                  data-title="Title"
+                                  ><i class="fa fa-eye"></i
+                                ></a>
+                              </li>
+                            </ul>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
+                      <div class="gallery-item mb-4 rounded overflow-hidden">
+                        <div class="gallery-image">
+                          <img
+                            src="/assets/images/destination/jebal (13).jpeg"
+                            alt="image"
+                          />
+                          <div class="gallery-content">
+                            <ul>
+                              <li>
+                                <a
+                                  href="/assets/images/destination/jebal (13).jpeg"
+                                  data-lightbox="gallery"
+                                  data-title="Title"
+                                  ><i class="fa fa-eye"></i
+                                ></a>
+                              </li>
+                            </ul>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                 
+                    <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
+                      <div class="gallery-item mb-4 rounded overflow-hidden">
+                        <div class="gallery-image">
+                          <img
+                            src="/assets/images/destination/jebal (15).jpeg"
+                            alt="image"
+                          />
+                          <div class="gallery-content">
+                            <ul>
+                              <li>
+                                <a
+                                  href="/assets/images/destination/jebal (15).jpeg"
                                   data-lightbox="gallery"
                                   data-title="Title"
                                   ><i class="fa fa-eye"></i
@@ -376,7 +451,6 @@
                             </div>
                         </div>-->
 
-           
             <!-- blog review -->
             <div id="single-add-review" class="single-add-review">
               <h4>Write a Review</h4>

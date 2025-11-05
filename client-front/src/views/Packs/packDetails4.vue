@@ -15,10 +15,10 @@
     <div class="breadcrumb-outer">
       <div class="container">
         <div class="breadcrumb-content text-center">
-          <h1 class="mb-3">Desert - OVERNIGHT</h1>
+          <h1 class="mb-3">Salalah City Tour</h1>
           <nav aria-label="breadcrumb" class="d-block">
             <ul class="breadcrumb">
-              <li class="breadcrumb-item"><a href="#">Home</a></li>
+              <li class="breadcrumb-item"><a href="/">Home</a></li>
               <li class="breadcrumb-item active" aria-current="page">
                 Destination Detail
               </li>
@@ -40,10 +40,10 @@
             <div id="highlight" class="mb-4">
               <div class="single-full-title border-b mb-2 pb-2">
                 <div class="single-title">
-                  <h2 class="mb-1">Desert OverNight Pack</h2>
+                  <h2 class="mb-1">Salalah City Tour Pack</h2>
                   <div class="rating-main d-flex align-items-center">
                     <p class="mb-0 me-2">
-                      <i class="icon-location-pin"></i> the Rub Al Khali, Oman
+                      <i class="icon-location-pin"></i> Salalah City, Oman
                     </p>
                     <div class="rating me-2">
                       <span class="fa fa-star checked"></span>
@@ -59,7 +59,7 @@
 
               <div class="description-images mb-4">
                 <img
-                  src="/assets/images/destination/destination10.avif"
+                  src="/assets/images/destination/beach (8).jpeg"
                   alt=""
                   class="w-100 rounded"
                 />
@@ -67,91 +67,76 @@
 
               <div class="description mb-2">
                 <h4>Description</h4>
+                <h5>HALF-DAY WEST SALALAH TOUR</h5>
+
+                (Approx. 4 Hours) Explore Coastal Beauty, Mountain Views & Cultural
+                Heritage
+
                 <p>
-                  Depart in the afternoon from Salalah and travel through Thumrait, once
-                  an important Bedouin settlement, before crossing the vast Al Nejd
-                  plains. As the landscape transforms, enter the majestic dunes of the Rub
-                  Al Khali (Empty Quarter), where an exhilarating dune-bashing experience
-                  awaits, guided by our expert desert driver.
+                  Discover the breathtaking natural landscapes and coastal charm of West
+                  Salalah with Duroob Oman Tours. This half-day journey blends seaside
+                  tranquility, dramatic mountain scenery, and spiritual heritage —
+                  offering a perfect introduction to Salalah’s most iconic highlights.
                 </p>
 
                 <p>
-                  Arrive in the heart of the dunes to witness a breathtaking sunset
-                  painting the desert in shades of gold and amber. Reach the traditional
-                  desert camp and enjoy warm Arabian hospitality with local coffee, dates,
-                  and a delicious dinner prepared in true Bedouin style. Spend a peaceful
-                  evening under the stars, wrapped in the serenity of the desert, with the
-                  option to enjoy Shisha by the campfire. A perfect way to experience the
-                  silence and mystique of the night desert.
+                  Begin your adventure at Mughsail Beach, famous for its soft white sands
+                  and crystal-blue waters of the Arabian Sea. Enjoy peaceful moments by
+                  the shore and take stunning photos of the unspoiled coastline.
                 </p>
 
                 <p>
-                  Wake up to a calm desert sunrise, followed by breakfast at the camp.
-                  Continue to the legendary Lost City of Ubar, a UNESCO-listed
-                  archaeological site believed to be the ancient “Atlantis of the Sands.”
-                  Explore its fascinating ruins and uncover stories of Oman’s rich trading
-                  history. Conclude the journey with a visit to Wadi Dawka, home to the
-                  natural frankincense trees of Oman and part of the UNESCO Frankincense
-                  Trail.
+                  A short drive brings you to the Marneef Cave Blowholes, where the
+                  powerful Arabian Sea forces water through natural rock openings,
+                  creating impressive water fountains. It’s one of Salalah’s most unique
+                  and fascinating natural wonders.
                 </p>
 
                 <p>
-                  Return to Salalah with unforgettable memories of the desert’s timeless
-                  beauty, Bedouin hospitality, and rich history.
+                  Continue along the zig-zag mountain road overlooking dramatic cliffs,
+                  deep valleys, and sweeping views of the ocean. With each turn, enjoy
+                  breathtaking panoramas — a paradise for nature lovers and photographers.
+                </p>
+                <p>
+                  Your journey concludes at the Prophet Job’s Tomb, a revered spiritual
+                  site surrounded by peaceful mountain scenery. Learn about its historical
+                  and religious importance while enjoying serene views of the surrounding
+                  hills.
+                </p>
+                <p>
+                  This tour is ideal for travellers seeking a short, immersive and scenic
+                  escape — perfect for families, couples, and nature enthusiasts looking
+                  to experience the essence of Salalah in just a few hours.
                 </p>
               </div>
 
               <div class="description d-md-flex">
                 <div class="desc-box bg-grey p-4 rounded me-md-2 mb-2">
-                  <h5 class="mb-2">Price Includes</h5>
+                  <h5 class="mb-2">HIGHLIGHTS</h5>
                   <ul>
                     <li class="d-block pb-1">
-                      <i class="fa fa-check pink mr-1"></i> Dunes du Rub Al Khali
+                      <i class="fa fa-check pink mr-1"></i>  Mughsail Beach
+
                     </li>
                     <li class="d-block pb-1">
-                      <i class="fa fa-check pink mr-1"></i> Couché de soleil dans le
-                      désert
+                      <i class="fa fa-check pink mr-1"></i> Marneef Cave Blowholes
+
                     </li>
                     <li class="d-block pb-1">
-                      <i class="fa fa-check pink mr-1"></i> Campement traditionnel et
-                      diner arabe
-                    </li>
-                    <li class="d-block pb-1">
-                      <i class="fa fa-check pink mr-1"></i> Nuit sous les étoiles
-                    </li>
-                    <li class="d-block">
-                      <i class="fa fa-check pink mr-1"></i> Lost City of Ubar (UNESCO)
+                      <i class="fa fa-check pink mr-1"></i>  Zig-zag Mountain Road
+
+                    </li>        <li class="d-block pb-1">
+                      <i class="fa fa-check pink mr-1"></i>  Coastal & Clifftop Viewpoints
+
                     </li>
                     <li class="d-block">
-                      <i class="fa fa-check pink mr-1"></i> Wadi Dawkah (UNESCO)
+                      <i class="fa fa-check pink mr-1"></i> Prophet Job’s Tomb
+
                     </li>
-                    <li class="d-block">
-                      <i class="fa fa-check pink mr-1"></i> Café arabe & dattes
-                      traditionnelles
-                    </li>
-                    <li class="d-block">
-                      <i class="fa fa-check pink mr-1"></i>Dune-bashing avec conducteur
-                      expert
-                    </li>
+                    
                   </ul>
                 </div>
-                <div class="desc-box bg-grey p-4 rounded ms-md-2 mb-2">
-                  <h4 class="mb-2">Departure & Return Location</h4>
-                  <ul>
-                    <li class="d-block pb-1">
-                      <i class="fa fa-close pink mr-1"></i> Guide Service Fee
-                    </li>
-                    <li class="d-block pb-1">
-                      <i class="fa fa-close pink mr-1"></i> Driver Service Fee
-                    </li>
-                    <li class="d-block pb-1">
-                      <i class="fa fa-close pink mr-1"></i> Any Private Expenses
-                    </li>
-                    <li class="d-block">
-                      <i class="fa fa-close pink mr-1"></i> Room Service Fees
-                    </li>
-                  </ul>
-                </div>
+                
               </div>
             </div>
             <div class="gallery pt-6 pb-0">
@@ -164,14 +149,14 @@
                       <div class="gallery-item mb-4 rounded overflow-hidden">
                         <div class="gallery-image">
                           <img
-                            src="/assets/images/destination/destination9.jpg"
+                            src="/assets/images/destination/beach (1).jpeg"
                             alt="image"
                           />
                           <div class="gallery-content">
                             <ul>
                               <li>
                                 <a
-                                  href="/assets/images/destination/destination9.jpg"
+                                  href="/assets/images/destination/beach (1).jpeg"
                                   data-lightbox="gallery"
                                   data-title="Title"
                                   ><i class="fa fa-eye"></i
@@ -186,7 +171,7 @@
                       <div class="gallery-item mb-4 rounded overflow-hidden">
                         <div class="gallery-image">
                           <img
-                            src="/assets/images/destination/destination10.avif"
+                            src="/assets/images/destination/beach (1).jpg"
                             alt="image"
                           />
 
@@ -194,7 +179,7 @@
                             <ul>
                               <li>
                                 <a
-                                  href="/assets/images/destination/destination10.avif"
+                                  href="/assets/images/destination/beach (1).jpg"
                                   data-lightbox="gallery"
                                   data-title="Title"
                                   ><i class="fa fa-eye"></i
@@ -208,35 +193,12 @@
                     <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
                       <div class="gallery-item mb-4 rounded overflow-hidden">
                         <div class="gallery-image">
-                          <img src="/assets/images/destination/sun.jpg" alt="image" />
+                          <img src="/assets/images/destination/beach (2).jpg" alt="image" />
                           <div class="gallery-content">
                             <ul>
                               <li>
                                 <a
-                                  href="/assets/images/destination/sun.jpg"
-                                  data-lightbox="gallery"
-                                  data-title="Title"
-                                  ><i class="fa fa-eye"></i
-                                ></a>
-                              </li>
-                            </ul>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
-                      <div class="gallery-item mb-4 rounded overflow-hidden">
-                        <div class="gallery-image">
-                          <img
-                            src="/assets/images/destination/destination12.png"
-                            alt="image"
-                          />
-                          <div class="gallery-content">
-                            <ul>
-                              <li>
-                                <a
-                                  href="/assets/images/destination/destination12.png"
+                                  href="/assets/images/destination/beach (2).jpg"
                                   data-lightbox="gallery"
                                   data-title="Title"
                                   ><i class="fa fa-eye"></i
@@ -252,14 +214,37 @@
                       <div class="gallery-item mb-4 rounded overflow-hidden">
                         <div class="gallery-image">
                           <img
-                            src="/assets/images/destination/destination14.jpeg"
+                            src="/assets/images/destination/beach (2).jpeg"
                             alt="image"
                           />
                           <div class="gallery-content">
                             <ul>
                               <li>
                                 <a
-                                  href="/assets/images/destination/destination14.jpeg"
+                                  href="/assets/images/destination/beach (2).jpeg"
+                                  data-lightbox="gallery"
+                                  data-title="Title"
+                                  ><i class="fa fa-eye"></i
+                                ></a>
+                              </li>
+                            </ul>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                      <div class="gallery-item mb-4 rounded overflow-hidden">
+                        <div class="gallery-image">
+                          <img
+                            src="/assets/images/destination/beach (3).jpeg"
+                            alt="image"
+                          />
+                          <div class="gallery-content">
+                            <ul>
+                              <li>
+                                <a
+                                  href="/assets/images/destination/beach (3).jpeg"
                                   data-lightbox="gallery"
                                   data-title="Title"
                                   ><i class="fa fa-eye"></i
@@ -275,14 +260,14 @@
                       <div class="gallery-item mb-4 rounded overflow-hidden">
                         <div class="gallery-image">
                           <img
-                            src="/assets/images/destination/destination13.jpeg"
+                            src="/assets/images/destination/beach (4).jpeg"
                             alt="image"
                           />
                           <div class="gallery-content">
                             <ul>
                               <li>
                                 <a
-                                  href="/assets/images/destination/destination13.jpeg"
+                                  href="/assets/images/destination/beach (4).jpeg"
                                   data-lightbox="gallery"
                                   data-title="Title"
                                   ><i class="fa fa-eye"></i
@@ -298,14 +283,14 @@
                       <div class="gallery-item mb-4 rounded overflow-hidden">
                         <div class="gallery-image">
                           <img
-                            src="/assets/images/destination/destination15.jpeg"
+                            src="/assets/images/destination/beach (5).jpeg"
                             alt="image"
                           />
                           <div class="gallery-content">
                             <ul>
                               <li>
                                 <a
-                                  href="/assets/images/destination/destination15.jpeg"
+                                  href="/assets/images/destination/beach (5).jpeg"
                                   data-lightbox="gallery"
                                   data-title="Title"
                                   ><i class="fa fa-eye"></i
@@ -321,14 +306,14 @@
                       <div class="gallery-item mb-4 rounded overflow-hidden">
                         <div class="gallery-image">
                           <img
-                            src="/assets/images/destination/destination2.jpeg"
+                            src="/assets/images/destination/beach (6).jpeg"
                             alt="image"
                           />
                           <div class="gallery-content">
                             <ul>
                               <li>
                                 <a
-                                  href="/assets/images/destination/destination2.jpeg"
+                                  href="/assets/images/destination/beach (6).jpeg"
                                   data-lightbox="gallery"
                                   data-title="Title"
                                   ><i class="fa fa-eye"></i
@@ -344,14 +329,14 @@
                       <div class="gallery-item mb-4 rounded overflow-hidden">
                         <div class="gallery-image">
                           <img
-                            src="/assets/images/destination/destination1.jpg"
+                            src="/assets/images/destination/beach (7).jpeg"
                             alt="image"
                           />
                           <div class="gallery-content">
                             <ul>
                               <li>
                                 <a
-                                  href="/assets/images/destination/destination1.jpg"
+                                  href="/assets/images/destination/beach (7).jpeg"
                                   data-lightbox="gallery"
                                   data-title="Title"
                                   ><i class="fa fa-eye"></i
@@ -362,6 +347,79 @@
                         </div>
                       </div>
                     </div>
+
+
+
+
+
+
+  <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                      <div class="gallery-item mb-4 rounded overflow-hidden">
+                        <div class="gallery-image">
+                          <img
+                            src="/assets/images/destination/beach (8).jpeg"
+                            alt="image"
+                          />
+                          <div class="gallery-content">
+                            <ul>
+                              <li>
+                                <a
+                                  href="/assets/images/destination/beach (8).jpeg"
+                                  data-lightbox="gallery"
+                                  data-title="Title"
+                                  ><i class="fa fa-eye"></i
+                                ></a>
+                              </li>
+                            </ul>
+                          </div>
+                        </div>
+                      </div>
+                    </div>  <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                      <div class="gallery-item mb-4 rounded overflow-hidden">
+                        <div class="gallery-image">
+                          <img
+                            src="/assets/images/destination/beach (9).jpeg"
+                            alt="image"
+                          />
+                          <div class="gallery-content">
+                            <ul>
+                              <li>
+                                <a
+                                  href="/assets/images/destination/beach (9).jpeg"
+                                  data-lightbox="gallery"
+                                  data-title="Title"
+                                  ><i class="fa fa-eye"></i
+                                ></a>
+                              </li>
+                            </ul>
+                          </div>
+                        </div>
+                      </div>
+                    </div>  <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                      <div class="gallery-item mb-4 rounded overflow-hidden">
+                        <div class="gallery-image">
+                          <img
+                            src="/assets/images/destination/beach (10).jpeg"
+                            alt="image"
+                          />
+                          <div class="gallery-content">
+                            <ul>
+                              <li>
+                                <a
+                                  href="/assets/images/destination/beach (10).jpeg"
+                                  data-lightbox="gallery"
+                                  data-title="Title"
+                                  ><i class="fa fa-eye"></i
+                                ></a>
+                              </li>
+                            </ul>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+
+
                   </div>
                 </div>
               </div>
@@ -376,7 +434,6 @@
                             </div>
                         </div>-->
 
-           
             <!-- blog review -->
             <div id="single-add-review" class="single-add-review">
               <h4>Write a Review</h4>

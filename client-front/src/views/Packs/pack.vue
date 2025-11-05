@@ -7,7 +7,7 @@
   <!-- BreadCrumb Starts -->
   <section
     class="breadcrumb-main pb-20 pt-14"
-    style="background-image: url(/assets/images/destination/salalah.jpg)"
+    style="background-image: url(/assets/images/destination/Salalah.jpg)"
   >
     <div
       class="section-shape section-shape1 top-inherit bottom-0"
@@ -52,7 +52,7 @@
                 class="trend-content d-flex align-items-center justify-content-between position-absolute bottom-0 p-4 w-100 z-index"
               >
                 <router-link
-                  to="/details1"
+                  to="/Desert-OVERNIGHT-Details"
                   class="white bg-theme p-1 px-2 rounded text-decoration-none"
                 >
                   Details
@@ -70,7 +70,7 @@
                 class="trend-content d-flex align-items-center justify-content-between position-absolute bottom-0 p-4 w-100 z-index"
               >
                 <router-link
-                  to="/details"
+                  to="/West-salalah-Details"
                   class="white bg-theme p-1 px-2 rounded text-decoration-none"
                 >
                   Details
@@ -88,7 +88,7 @@
                 class="trend-content d-flex align-items-center justify-content-between position-absolute bottom-0 p-4 w-100"
               >
                 <router-link
-                  to="/details"
+                  to="/Desert-SAFARI-Details"
                   class="white bg-theme p-1 px-2 rounded text-decoration-none"
                 >
                   Details
@@ -106,7 +106,7 @@
                 class="trend-content d-flex align-items-center justify-content-between position-absolute bottom-0 p-4 w-100 z-index"
               >
                 <router-link
-                  to="/details"
+                  to="/Jbel-SAFARI-Details"
                   class="white bg-theme p-1 px-2 rounded text-decoration-none"
                 >
                   Details
@@ -124,7 +124,7 @@
                 class="trend-content d-flex align-items-center justify-content-between position-absolute bottom-0 p-4 w-100 z-index"
               >
                 <router-link
-                  to="/details"
+                  to="/Salalah-City-Tour-Details"
                   class="white bg-theme p-1 px-2 rounded text-decoration-none"
                 >
                   Details
@@ -191,50 +191,8 @@
   <!-- Discount action Ends -->
 
   <!-- partner starts -->
-  <section class="our-partner pb-6 pt-6">
-    <div class="container">
-      <div class="section-title mb-6 w-75 mx-auto text-center">
-        <h4 class="mb-1 theme1">Our Partners</h4>
-        <h2 class="mb-1">Our Awesome <span class="theme">partners</span></h2>
-        <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-          incididunt ut labore.
-        </p>
-      </div>
-      <div class="row align-items-center partner-in partner-slider">
-        <div class="col-md-3 col-sm-6">
-          <div class="partner-item p-4 py-2 rounded bg-lgrey">
-            <img src="/assets/images/travel1.png" alt="" />
-          </div>
-        </div>
-        <div class="col-md-3 col-sm-6">
-          <div class="partner-item p-4 py-2 rounded bg-lgrey">
-            <img src="/assets/images/travel1.png" alt="" />
-          </div>
-        </div>
-        <div class="col-md-3 col-sm-6">
-          <div class="partner-item p-4 py-2 rounded bg-lgrey">
-            <img src="/assets/images/travel1.png" alt="" />
-          </div>
-        </div>
-        <div class="col-md-3 col-sm-6">
-          <div class="partner-item p-4 py-2 rounded bg-lgrey">
-            <img src="/assets/images/travel1.png" alt="" />
-          </div>
-        </div>
-        <div class="col-md-3 col-sm-6">
-          <div class="partner-item p-4 py-2 rounded bg-lgrey">
-            <img src="/assets/images/travel1.png" alt="" />
-          </div>
-        </div>
-        <div class="col-md-3 col-sm-6">
-          <div class="partner-item p-4 py-2 rounded bg-lgrey">
-            <img src="/assets/images/travel1.png" alt="" />
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
+    <partnerComponent />
+
   <!-- partner ends -->
 
   <!-- footer starts -->
@@ -256,12 +214,14 @@
 <script>
 import HeaderComponent from "../../components/header.vue";
 import FooterComponent from "../../components/footer.vue";
+import partnerComponent from "../../components/partner.vue";
 
 export default {
   name: "ToursListView",
   components: {
     HeaderComponent,
     FooterComponent,
+    partnerComponent
   },
   mounted() {
     console.log("Tours List page loaded");

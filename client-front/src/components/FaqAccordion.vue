@@ -10,7 +10,7 @@
                 <strong>Beach Ready Tour</strong><br />
                 <small class="text-muted"><i class="icon-location-pin theme1"></i> Florida, USA</small>
               </div>
-              <img src="/assets/images/destination/destination6.jpeg" alt="Lake View" class="img-fluid stacked-img" style="width: 200px" />
+              <img src="/assets/images/destination/camping.jpeg" alt="Lake View" class="img-fluid stacked-img" style="width: 200px" />
             </div>
           </div>
   <div class="col-lg-6">

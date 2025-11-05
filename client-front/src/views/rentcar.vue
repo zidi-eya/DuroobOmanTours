@@ -1143,6 +1143,33 @@
 <script>
 
 
+import { onMounted } from 'vue'
+import $ from 'jquery'
+import 'slick-carousel/slick/slick.css'
+import 'slick-carousel/slick/slick-theme.css'
+import 'slick-carousel'
+
+onMounted(() => {
+  $('.side-slider').slick({
+    infinite: true,
+    slidesToShow: 6,
+    slidesToScroll: 1,
+    arrows: false,
+    rows: 0,
+    dots: false,
+    autoplay: true,
+    speed: 4000,
+    loop: true,
+    responsive: [
+      { breakpoint: 1000, settings: { slidesToShow: 3 } },
+      { breakpoint: 811, settings: { slidesToShow: 2 } },
+      { breakpoint: 500, settings: { slidesToShow: 1 } },
+    ],
+  })
+})
+
+//fff
+
 document.addEventListener("DOMContentLoaded", () => {
   const btn = document.getElementById("playLocalVideo");
   const video = document.getElementById("localVideo");

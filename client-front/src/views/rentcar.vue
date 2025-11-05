@@ -380,14 +380,26 @@
                 </h2>
                 <p>Enjoy the freedom of flexible car rentals designed for comfort, safety, and adventure.</p>
               </div>
-              <div class="video-button position-relative ms-lg-5 text-center text-lg-start">
-                <div class="call-button">
-                  <button type="button" class="play-btn js-video-button" data-video-id="152879427" data-channel="vimeo">
-                    <i class="fa fa-play bg-blue"></i>
-                  </button>
-                </div>
-                <div class="video-figure"></div>
-              </div>
+          <div class="video-button position-relative ms-lg-5 text-center text-lg-start">
+  <div class="call-button">
+    <!-- Retirer js-video-button -->
+    <button type="button" class="play-btn" id="playLocalVideo">
+      <i class="fa fa-play bg-blue"></i>
+    </button>
+  </div>
+
+  <div class="video-figure">
+    <video
+      id="localVideo"
+      class="w-100"
+      style="display:none; border-radius:15px;"
+      controls
+    >
+      <source src="/assets/images/tour.mp4" type="video/mp4" />
+      Your browser does not support the video tag.
+    </video>
+  </div>
+</div>
             </div>
           </div>
         </div>
@@ -664,6 +676,24 @@
 
   </template>
 <script>
+
+
+
+
+document.addEventListener("DOMContentLoaded", () => {
+  const btn = document.getElementById("playLocalVideo");
+  const video = document.getElementById("localVideo");
+
+  btn.addEventListener("click", () => {
+    // Hide the play button
+    btn.style.display = "none";
+
+    // Show and play the video inline (inside same section)
+    video.style.display = "block";
+    video.currentTime = 0;
+    video.play();
+  });
+});
 import HeaderComponent from "../components/header.vue";
 import BannerComponent from "../components/banner.vue";
 import FooterComponent from "../components/footer.vue";

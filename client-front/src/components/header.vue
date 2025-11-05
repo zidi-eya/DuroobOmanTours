@@ -23,7 +23,7 @@
 
                
                  <li><RouterLink to="/" class="nav-link">Home</RouterLink></li>
-                <li><RouterLink to="/about" class="nav-link">Packs</RouterLink></li>
+                <li><RouterLink to="/pack" class="nav-link">Packs</RouterLink></li>
                 <li><RouterLink to="/rentcar" class="nav-link">Rent Car</RouterLink></li>
                 <li><RouterLink to="/contact" class="nav-link">Contact</RouterLink></li>
             </ul> 

@@ -27,7 +27,7 @@
           <div class="row">
             <div class="col-lg-4 col-md-6 col-sm-12 mb-4 pe-4">
               <div class="footer-about">
-                <img src="/assets/images/logo-whit.png" alt="" style="width:250px;" />
+                <img src="/assets/images/Asset 204.png" alt="" style="width:250px;" />
                 <p class="mt-3 mb-3 white">
                 Duroob Oman Tours offers authentic, premium travel experiences across Oman, blending comfort, culture, and adventure with true Omani hospitality.
                 </p>

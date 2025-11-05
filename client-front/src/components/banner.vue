@@ -3,17 +3,17 @@
       <div class="banner-main">
         <div class="banner-image">
           <div class="video-banner">
-           <!-- <video autoplay muted loop id="vid" class="w-100">
+            <video autoplay muted loop id="vid" class="w-100">
               <source src="/assets/images/tour.MP4" type="video/mp4" />
-            </video>-->
+            </video>
           </div>
           <div class="dot-overlay"></div>
         </div>
         <div class="banner-content">
           <div class="entry-meta mb-0">
-            <span class="entry-category"><a href="tour-grid.html" class="white"> Duroob Oman Tours</a></span>
+            <span class="entry-category"><h3  class="white"> Duroob Oman Tours</h3></span>
           </div>
-          <h1 class="mb-0"><a href="tour-single.html" class="white">Create Your Journey Joyfull Through Us</a></h1>
+          <h1 class="mb-0"><a  class="white">Create Your Journey Joyfull Through Us</a></h1>
         </div>
       </div>
     </section>

@@ -13,12 +13,12 @@
             </li>
             <li>
               <a href="#" class="white">
-                <i class="icon-location-pin white"></i> Oman
+                <i class="icon-location-pin white"></i> Salalah 211, Oman
               </a>
             </li>
             <li>
               <a href="#" class="white">
-                <i class="icon-clock white"></i> Sat-Fri: 8 AM – 5 PM
+                <i class="icon-clock white"></i> 7/7 - 24/24
               </a>
             </li>
           </ul>

@@ -23,7 +23,7 @@
         <div class="car-slider top-minus-40 position-relative" style="margin-top: 100px">
           <div class="row about-slider">
             <div class="col-lg">
-              <img src="/assets/images/cars/car (1).jpg" alt="" class="rounded" />
+              <img src="/assets/images/cars/car (3).webp" alt="" class="rounded" />
             </div>
             <div class="col-lg">
               <img src="/assets/images/cars/car (4).jpg" alt="" class="rounded" />
@@ -187,7 +187,7 @@
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="trend-item rounded box-shadow">
               <div class="trend-image position-relative">
-                <img src="/assets/images/cars/car (1).jpg" alt="image" class="" />
+                <img src="/assets/images/cars/car (3).webp" alt="image" class="" />
               </div>
               <div class="trend-content1 position-relative p-4 bg-white">
                 <h3 class="mb-2 border-b pb-2">
@@ -249,7 +249,7 @@
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="trend-item rounded box-shadow">
               <div class="trend-image position-relative">
-                <img src="/assets/images/cars/car.jpg" alt="image" class="" />
+                <img src="/assets/images/cars/changan.jpg" alt="image" class="" />
               </div>
               <div class="trend-content1 position-relative p-4 bg-white">
                 <h3 class="mb-2 border-b pb-2">
@@ -288,7 +288,7 @@
               </div>
               <div class="trend-content1 position-relative p-4 bg-white">
                 <h3 class="mb-2 border-b pb-2">
-                  <a href="car-detail.html" class="">Nissan Elantra2020</a>
+                  <a href="car-detail.html" class="">Hyundai Elantra2020</a>
                 </h3>
                 <ul
                   class="featured-meta border-b pb-2 mb-2 d-flex align-items-center justify-content-between"
@@ -445,7 +445,7 @@
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="trend-item rounded box-shadow">
               <div class="trend-image position-relative">
-                <img src="/assets/images/cars/car (9).jpg" alt="image" class="" />
+                <img src="/assets/images/cars/corolla.webp" alt="image" class="" />
               </div>
               <div class="trend-content1 position-relative p-4 bg-white">
                 <h3 class="mb-2 border-b pb-2">
@@ -505,7 +505,7 @@
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="trend-item rounded box-shadow">
               <div class="trend-image position-relative">
-                <img src="/assets/images/cars/car (10).jpg" alt="image" class="" />
+                <img src="/assets/images/cars/nissan.webp" alt="image" class="" />
               </div>
               <div class="trend-content1 position-relative p-4 bg-white">
                 <h3 class="mb-2 border-b pb-2">
@@ -535,7 +535,7 @@
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="trend-item rounded box-shadow">
               <div class="trend-image position-relative">
-                <img src="/assets/images/cars/car (11).jpg" alt="image" class="" />
+                <img src="/assets/images/cars/Sunny.jpg" alt="image" class="" />
               </div>
               <div class="trend-content1 position-relative p-4 bg-white">
                 <h3 class="mb-2 border-b pb-2">
@@ -618,7 +618,7 @@
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="trend-item rounded box-shadow">
               <div class="trend-image position-relative">
-                <img src="/assets/images/cars/car (1).jpg" alt="image" class="" />
+                <img src="/assets/images/cars/car (3).webp" alt="image" class="" />
               </div>
               <div class="trend-content1 position-relative p-4 bg-white">
                 <h3 class="mb-2 border-b pb-2">

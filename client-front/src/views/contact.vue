@@ -36,9 +36,10 @@
                     </div>
                     <div class="info-content">
                       <h3>Phone Number</h3>
-                      <p class="m-0">977-444-666-888</p>
-                      <p class="m-0">977-444-222-000</p>
-                    </div>
+                      <p class="m-0">+968 9351 8889</p>
+                      <p class="m-0">+968 7608 5308</p>
+                        <p class="m-0">+968 9297 5322</p>
+                  </div>
                   </div>
                 </div>
 
@@ -50,7 +51,9 @@
                     <div class="info-content ps-4">
                       <h3>Email Address</h3>
                       <p class="m-0">info@Durrobomantours.com</p>
-                      <p class="m-0">helpdesk@Durrobomantours.com</p>
+                      <p class="m-0">sales@Durrobomantours.com</p>
+                                            <p class="m-0">manager@Durrobomantours.com</p>
+
                     </div>
                   </div>
                 </div>
@@ -60,10 +63,8 @@
                 <div class="row">
                   <div class="col-lg-6">
                     <div class="map rounded overflow-hidden mb-md-4">
-                      <iframe
-                        height="500"
-                        src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=+(mangal%20bazar)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
-                      ></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3815.148330785694!2d54.0763613!3d17.0163928!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3dd1618dd0820041%3A0xe8bbea2c5a6072d!2sDarb%20rent%20a%20car!5e0!3m2!1sfr!2stn!4v1762375978183!5m2!1sfr!2stn" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                     
                     </div>
                   </div>
 

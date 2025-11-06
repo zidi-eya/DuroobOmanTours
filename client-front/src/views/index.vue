@@ -127,7 +127,7 @@
               <div class="col-lg-6 col-md-6 col-sm-6 mb-4">
                 <div class="trend-item1">
                   <div class="trend-image position-relative rounded">
-                    <img src="/assets/images/destination/1.png" alt="image" />
+                    <img src="/assets/images/destination/beach (8).jpeg" alt="image" />
                     <div
                       class="trend-content d-flex align-items-center justify-content-between position-absolute bottom-0 p-4 w-100 z-index"
                     >
@@ -137,7 +137,7 @@
                             <h3 class="mb-0 white">Oman</h3>
                           </a>
                         </h5>
-                        <h3 class="mb-0 white">Oman</h3>
+                        <h3 class="mb-0 white">Salalah</h3>
                         <h3 class="mb-0 white"></h3>
                       </div>
                       <span class="white bg-theme p-1 px-2 rounded">152 Tours</span>
@@ -263,15 +263,23 @@
                   wishing to explore Oman's mountains, beaches, desert, and historic
                   sites.
                 </p>
-              <!--  <div class="about-listing">
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                
+                <div class="about-listing">
                   <ul class="d-flex justify-content-between">
                     <li><i class="icon-location-pin theme"></i> Tour</li>
                     <li><i class="icon-briefcase theme"></i> Friendly Price</li>
                     <li><i class="icon-folder theme"></i> Reliable Tour Package</li>
                   </ul>
-                </div>-->
+                </div>
               </div>
-            </div>
+            </div><br/>
+                <br/>
+                <br/>
+                <br/>
             <div class="col-lg-12">
               <!-- Counter -->
               <div class="counter-main w-75 float-end">
@@ -280,7 +288,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-6 mb-4">
                       <div class="counter-item border-end pe-4">
                         <div class="counter-content">
-                          <h2 class="value mb-0 theme">8</h2>
+                          <h2 class="value mb-0 theme">5</h2>
                           <span class="m-0">Years Experiences</span>
                         </div>
                       </div>
@@ -289,7 +297,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-6 mb-4">
                       <div class="counter-item border-end pe-4">
                         <div class="counter-content">
-                          <h2 class="value mb-0 theme">5</h2>
+                          <h2 class="value mb-0 theme">10</h2>
                           <span class="m-0">Tour Packages</span>
                         </div>
                       </div>

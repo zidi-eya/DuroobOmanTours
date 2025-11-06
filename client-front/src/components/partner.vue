@@ -9,16 +9,7 @@
         </p>
       </div>
       <div class="row align-items-center partner-in partner-slider">
-        <div class="col-md-3 col-sm-6">
-          <div class="partner-item p-4 py-2 rounded bg-lgrey">
-            <img src="/assets/images/travel1.png" alt="" />
-          </div>
-        </div>
-        <div class="col-md-3 col-sm-6">
-          <div class="partner-item p-4 py-2 rounded bg-lgrey">
-            <img src="/assets/images/travel1.png" alt="" />
-          </div>
-        </div>
+        
         <div class="col-md-3 col-sm-6">
           <div class="partner-item p-4 py-2 rounded bg-lgrey">
             <img src="/assets/images/travel1.png" alt="" />

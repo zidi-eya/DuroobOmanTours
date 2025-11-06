@@ -5,12 +5,12 @@
           <!-- Left Image Section -->
           <div class="col-lg-6">
             <div class="d-flex justify-content-end position-relative mb-5 mb-lg-0">
-              <img src="/assets/images/destination/destination7.jpeg" alt="Hiking Tour" class="img-fluid rounded w-75 me-lg-4" />
+              <img src="/assets/images/destination/jebal (5).jpeg" alt="Hiking Tour" class="img-fluid rounded w-75 me-lg-4" />
               <div class="tag-card">
-                <strong>Beach Ready Tour</strong><br />
-                <small class="text-muted"><i class="icon-location-pin theme1"></i> Florida, USA</small>
+                <strong> Ready for the Tour</strong><br />
+                <small class="text-muted"><i class="icon-location-pin theme1"></i> Oman, Salalah</small>
               </div>
-              <img src="/assets/images/destination/camping.jpeg" alt="Lake View" class="img-fluid stacked-img" style="width: 200px" />
+              <img src="/assets/images/destination/jebal (7).jpeg" alt="Lake View" class="img-fluid stacked-img" style="width: 200px" />
             </div>
           </div>
   <div class="col-lg-6">

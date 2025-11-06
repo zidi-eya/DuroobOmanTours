@@ -1,7 +1,7 @@
  
  <template>
  
-<section class="breadcrumb-main pb-20 pt-14" style="background-image: url(/assets/images/destination/destination8.webp);">
+<section class="breadcrumb-main pb-20 pt-14" style="background-image: url(/assets/images/destination/salalah (1).jpeg);">
         <div class="section-shape section-shape1 top-inherit bottom-0" style="background-image: url(/assets/images/shape8.png);"></div>
         <div class="breadcrumb-outer">
             <div class="container">

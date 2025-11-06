@@ -21,18 +21,18 @@
         </div>
 
         <div class="car-slider top-minus-40 position-relative" style="margin-top: 100px">
-          <div class="row about-slider">
-            <div class="col-lg">
-              <img src="/assets/images/cars/car (3).webp" alt="" class="rounded" />
-            </div>
-            <div class="col-lg">
-              <img src="/assets/images/cars/car (4).jpg" alt="" class="rounded" />
-            </div>
-            <div class="col-lg">
-              <img src="/assets/images/cars/car (5).jpg" alt="" class="rounded" />
-            </div>
-          </div>
-        </div>
+  <div class="row about-slider">
+    <div class="col-lg">
+      <img src="/assets/images/cars/car (1).avif" alt="" class="rounded car-img" />
+    </div>
+    <div class="col-lg">
+      <img src="/assets/images/cars/car (4).jpg" alt="" class="rounded car-img" />
+    </div>
+    <div class="col-lg">
+      <img src="/assets/images/cars/car (5).jpg" alt="" class="rounded car-img" />
+    </div>
+  </div>
+</div>
       </div>
     </div>
   </section>
@@ -45,7 +45,10 @@
             class="category-item box-shadow p-3 py-4 text-center bg-white rounded overflow-hidden"
           >
             <div class="trending-topic-content">
-              <img src="/assets/images/cars/cars1.png" class="mb-1 d-inline-block"  alt=""
+              <img
+                src="/assets/images/cars/cars1.png"
+                class="mb-1 d-inline-block"
+                alt=""
               />
               <h5 class="mb-0"><a href="car-grid.html">Compact</a></h5>
             </div>
@@ -140,7 +143,10 @@
   </div>
 
   <!-- Last Minute Deal Starts -->
-  <section class="trending pb-6 pt-6" style="background-image: url(/assets/images/shape2.png)">
+  <section
+    class="trending pb-6 pt-6"
+    style="background-image: url(/assets/images/shape2.png)"
+  >
     <div class="container">
       <div class="section-title mb-6 w-75 mx-auto text-center">
         <h4 class="mb-1 theme1">OFFER DEALS</h4>
@@ -175,9 +181,15 @@
                 <div class="entry-meta d-flex align-items-center justify-content-between">
                   <div class="entry-author d-flex align-items-center">
                     <p class="mb-0">
-                      <span class="theme fw-bold fs-5"> 18 omr / jour </span>
-                      <span class="theme fw-bold fs-5"> 120 omr / semaine </span>
-                      <span class="theme fw-bold fs-5"> 280 omr / mois </span>
+                      <span class="theme fw-bold fs-5"
+                        >18 <span class="fs-6">OMR/Day</span></span
+                      ><br />
+                      <span class="theme fw-bold fs-5"
+                        >120 <span class="fs-6">OMR/Week</span></span
+                      ><br />
+                      <span class="theme fw-bold fs-5"
+                        >280 <span class="fs-6">OMR/Month</span></span
+                      ><br />
                     </p>
                   </div>
                 </div>
@@ -191,7 +203,7 @@
               </div>
               <div class="trend-content1 position-relative p-4 bg-white">
                 <h3 class="mb-2 border-b pb-2">
-                  <a href="car-detail.html" class="">Nissan 2020</a>
+                  <a href="car-detail.html" class="">Nissan Rogue 2020</a>
                 </h3>
                 <ul
                   class="featured-meta border-b pb-2 mb-2 d-flex align-items-center justify-content-between"
@@ -203,14 +215,16 @@
                 </ul>
                 <div class="entry-meta d-flex align-items-center justify-content-between">
                   <div class="entry-author d-flex align-items-center">
-                    <p class="mb-0">
-                      <span class="theme fw-bold fs-5"> 25 omr / jour </span>
-                    </p>
-                    <p class="mb-0">
-                      <span class="theme fw-bold fs-5"> 150 omr / semaine </span>
-                    </p>
-                    <p class="mb-0">
-                      <span class="theme fw-bold fs-5"> 320 omr / mois </span>
+                     <p class="mb-0">
+                      <span class="theme fw-bold fs-5"
+                        >25 <span class="fs-6">OMR/Day</span></span
+                      ><br />
+                      <span class="theme fw-bold fs-5"
+                        >150 <span class="fs-6">OMR/Week</span></span
+                      ><br />
+                      <span class="theme fw-bold fs-5"
+                        >320 <span class="fs-6">OMR/Month</span></span
+                      ><br />
                     </p>
                   </div>
                 </div>
@@ -236,10 +250,16 @@
                 </ul>
                 <div class="entry-meta d-flex align-items-center justify-content-between">
                   <div class="entry-author d-flex align-items-center">
-                    <p class="mb-0">
-                      <span class="theme fw-bold fs-5"> 60 omr / jour </span>
-                      <span class="theme fw-bold fs-5"> 380 omr / semaine </span>
-                      <span class="theme fw-bold fs-5"> 750 omr / mois </span>
+                   <p class="mb-0">
+                      <span class="theme fw-bold fs-5"
+                        >60 <span class="fs-6">OMR/Day</span></span
+                      ><br />
+                      <span class="theme fw-bold fs-5"
+                        >380 <span class="fs-6">OMR/Week</span></span
+                      ><br />
+                      <span class="theme fw-bold fs-5"
+                        >750<span class="fs-6">OMR/Month</span></span
+                      ><br />
                     </p>
                   </div>
                 </div>
@@ -253,7 +273,7 @@
               </div>
               <div class="trend-content1 position-relative p-4 bg-white">
                 <h3 class="mb-2 border-b pb-2">
-                  <a href="car-detail.html" class=""> changan 2023</a>
+                  <a href="car-detail.html" class=""> changan Eado 2023</a>
                 </h3>
                 <ul
                   class="featured-meta border-b pb-2 mb-2 d-flex align-items-center justify-content-between"
@@ -267,13 +287,15 @@
                 <div class="entry-meta d-flex align-items-center justify-content-between">
                   <div class="entry-author d-flex align-items-center">
                     <p class="mb-0">
-                      <span class="theme fw-bold fs-5"> 16 omr/day</span>
-                    </p>
-                    <p class="mb-0">
-                      <span class="theme fw-bold fs-5"> 100 omr/week</span>
-                    </p>
-                    <p class="mb-0">
-                      <span class="theme fw-bold fs-5"> 260 omr/month</span>
+                      <span class="theme fw-bold fs-5"
+                        >16 <span class="fs-6">OMR/Day</span></span
+                      ><br />
+                      <span class="theme fw-bold fs-5"
+                        >100 <span class="fs-6">OMR/Week</span></span
+                      ><br />
+                      <span class="theme fw-bold fs-5"
+                        >260 <span class="fs-6">OMR/Month</span></span
+                      ><br />
                     </p>
                   </div>
                 </div>
@@ -300,10 +322,16 @@
                 </ul>
                 <div class="entry-meta d-flex align-items-center justify-content-between">
                   <div class="entry-author d-flex align-items-center">
-                    <p class="mb-0">
-                      <span class="theme fw-bold fs-5"> 14 omr / jour </span>
-                      <span class="theme fw-bold fs-5"> 90 omr / semaine </span>
-                      <span class="theme fw-bold fs-5"> 240 omr / mois </span>
+                   <p class="mb-0">
+                      <span class="theme fw-bold fs-5"
+                        >14 <span class="fs-6">OMR/Day</span></span
+                      ><br />
+                      <span class="theme fw-bold fs-5"
+                        >90 <span class="fs-6">OMR/Week</span></span
+                      ><br />
+                      <span class="theme fw-bold fs-5"
+                        >240 <span class="fs-6">OMR/Month</span></span
+                      ><br />
                     </p>
                   </div>
                 </div>
@@ -330,10 +358,16 @@
                 </ul>
                 <div class="entry-meta d-flex align-items-center justify-content-between">
                   <div class="entry-author d-flex align-items-center">
-                    <p class="mb-0">
-                      <span class="theme fw-bold fs-5"> 16 omr / jour </span>
-                      <span class="theme fw-bold fs-5"> 100 omr / semaine </span>
-                      <span class="theme fw-bold fs-5"> 240 omr / mois </span>
+                   <p class="mb-0">
+                      <span class="theme fw-bold fs-5"
+                        >16 <span class="fs-6">OMR/Day</span></span
+                      ><br />
+                      <span class="theme fw-bold fs-5"
+                        >100 <span class="fs-6">OMR/Week</span></span
+                      ><br />
+                      <span class="theme fw-bold fs-5"
+                        >240 <span class="fs-6">OMR/Month</span></span
+                      ><br />
                     </p>
                   </div>
                 </div>
@@ -360,14 +394,16 @@
                 </ul>
                 <div class="entry-meta d-flex align-items-center justify-content-between">
                   <div class="entry-author d-flex align-items-center">
-                    <p class="mb-0">
-                      <span class="theme fw-bold fs-5"> 35 omr / jour </span>
-                    </p>
-                    <p class="mb-0">
-                      <span class="theme fw-bold fs-5"> 220 omr / semaine </span>
-                    </p>
-                    <p class="mb-0">
-                      <span class="theme fw-bold fs-5"> 400 omr / mois </span>
+                     <p class="mb-0">
+                      <span class="theme fw-bold fs-5"
+                        >35 <span class="fs-6">OMR/Day</span></span
+                      ><br />
+                      <span class="theme fw-bold fs-5"
+                        >220 <span class="fs-6">OMR/Week</span></span
+                      ><br />
+                      <span class="theme fw-bold fs-5"
+                        >400 <span class="fs-6">OMR/Month</span></span
+                      ><br />
                     </p>
                   </div>
                 </div>
@@ -393,14 +429,16 @@
                 </ul>
                 <div class="entry-meta d-flex align-items-center justify-content-between">
                   <div class="entry-author d-flex align-items-center">
-                    <p class="mb-0">
-                      <span class="theme fw-bold fs-5"> 17 omr / jour </span>
-                    </p>
-                    <p class="mb-0">
-                      <span class="theme fw-bold fs-5"> 110 omr / semaine </span>
-                    </p>
-                    <p class="mb-0">
-                      <span class="theme fw-bold fs-5"> 260 omr / mois </span>
+                   <p class="mb-0">
+                      <span class="theme fw-bold fs-5"
+                        >17 <span class="fs-6">OMR/Day</span></span
+                      ><br />
+                      <span class="theme fw-bold fs-5"
+                        >110 <span class="fs-6">OMR/Week</span></span
+                      ><br />
+                      <span class="theme fw-bold fs-5"
+                        >260 <span class="fs-6">OMR/Month</span></span
+                      ><br />
                     </p>
                   </div>
                 </div>
@@ -427,14 +465,16 @@
 
                 <div class="entry-meta d-flex align-items-center justify-content-between">
                   <div class="entry-author d-flex align-items-center">
-                    <p class="mb-0">
-                      <span class="theme fw-bold fs-5"> 14 omr / jour</span>
-                    </p>
-                    <p class="mb-0">
-                      <span class="theme fw-bold fs-5"> 90 omr / week</span>
-                    </p>
-                    <p class="mb-0">
-                      <span class="theme fw-bold fs-5"> 240 omr / month</span>
+                  <p class="mb-0">
+                      <span class="theme fw-bold fs-5"
+                        >14 <span class="fs-6">OMR/Day</span></span
+                      ><br />
+                      <span class="theme fw-bold fs-5"
+                        >90 <span class="fs-6">OMR/Week</span></span
+                      ><br />
+                      <span class="theme fw-bold fs-5"
+                        >240 <span class="fs-6">OMR/Month</span></span
+                      ><br />
                     </p>
                   </div>
                 </div>
@@ -462,9 +502,15 @@
                 <div class="entry-meta d-flex align-items-center justify-content-between">
                   <div class="entry-author d-flex align-items-center">
                     <p class="mb-0">
-                      <span class="theme fw-bold fs-5"> 12 omr / jour </span>
-                      <span class="theme fw-bold fs-5"> 75 omr / semaine </span>
-                      <span class="theme fw-bold fs-5"> 220 omr / mois </span>
+                      <span class="theme fw-bold fs-5"
+                        >12 <span class="fs-6">OMR/Day</span></span
+                      ><br />
+                      <span class="theme fw-bold fs-5"
+                        >75 <span class="fs-6">OMR/Week</span></span
+                      ><br />
+                      <span class="theme fw-bold fs-5"
+                        >220 <span class="fs-6">OMR/Month</span></span
+                      ><br />
                     </p>
                   </div>
                 </div>
@@ -491,10 +537,16 @@
                 </ul>
                 <div class="entry-meta d-flex align-items-center justify-content-between">
                   <div class="entry-author d-flex align-items-center">
-                    <p class="mb-0">
-                      <span class="theme fw-bold fs-5"> 45 omr / jour </span>
-                      <span class="theme fw-bold fs-5"> 250 omr /semaine </span>
-                      <span class="theme fw-bold fs-5"> 450 omr / mois </span>
+                     <p class="mb-0">
+                      <span class="theme fw-bold fs-5"
+                        >45 <span class="fs-6">OMR/Day</span></span
+                      ><br />
+                      <span class="theme fw-bold fs-5"
+                        >250 <span class="fs-6">OMR/Week</span></span
+                      ><br />
+                      <span class="theme fw-bold fs-5"
+                        >450 <span class="fs-6">OMR/Month</span></span
+                      ><br />
                     </p>
                   </div>
                 </div>
@@ -521,10 +573,16 @@
                 </ul>
                 <div class="entry-meta d-flex align-items-center justify-content-between">
                   <div class="entry-author d-flex align-items-center">
-                    <p class="mb-0">
-                      <span class="theme fw-bold fs-5"> 10 omr / jour </span>
-                      <span class="theme fw-bold fs-5"> 60 omr /semaine </span>
-                      <span class="theme fw-bold fs-5"> 180 omr / mois </span>
+                   <p class="mb-0">
+                      <span class="theme fw-bold fs-5"
+                        >10 <span class="fs-6">OMR/Day</span></span
+                      ><br />
+                      <span class="theme fw-bold fs-5"
+                        >60 <span class="fs-6">OMR/Week</span></span
+                      ><br />
+                      <span class="theme fw-bold fs-5"
+                        >180 <span class="fs-6">OMR/Month</span></span
+                      ><br />
                     </p>
                   </div>
                 </div>
@@ -552,9 +610,15 @@
                 <div class="entry-meta d-flex align-items-center justify-content-between">
                   <div class="entry-author d-flex align-items-center">
                     <p class="mb-0">
-                      <span class="theme fw-bold fs-5"> 10 omr / jour </span>
-                      <span class="theme fw-bold fs-5"> 60 omr /semaine </span>
-                      <span class="theme fw-bold fs-5"> 180 omr / mois </span>
+                      <span class="theme fw-bold fs-5"
+                        >10 <span class="fs-6">OMR/Day</span></span
+                      ><br />
+                      <span class="theme fw-bold fs-5"
+                        >60 <span class="fs-6">OMR/Week</span></span
+                      ><br />
+                      <span class="theme fw-bold fs-5"
+                        >180 <span class="fs-6">OMR/Month</span></span
+                      ><br />
                     </p>
                   </div>
                 </div>
@@ -747,7 +811,7 @@
               </div>
 
               <div class="video-figure">
-               <!-- <video
+                <!-- <video
                   id="localVideo"
                   class="w-100"
                   style="display: none; border-radius: 15px"
@@ -915,246 +979,27 @@
   </div>
   <!-- Back to top ends -->
 
-  <!-- search popup -->
-  <div id="search1">
-    <button type="button" class="close">×</button>
-    <form>
-      <input type="search" value="" placeholder="type keyword(s) here" />
-      <button type="submit" class="btn btn-primary">Search</button>
-    </form>
-  </div>
-
-  <!-- login registration modal -->
-  <div class="modal fade log-reg" id="exampleModal" tabindex="-1" aria-hidden="true">
-    <div class="modal-dialog">
-      <div class="modal-content">
-        <div class="modal-body">
-          <div class="post-tabs">
-            <!-- tab navs -->
-            <ul class="nav nav-tabs nav-pills nav-fill" id="postsTab" role="tablist">
-              <li class="nav-item" role="presentation">
-                <button
-                  aria-controls="login"
-                  aria-selected="false"
-                  class="nav-link active"
-                  data-bs-target="#login"
-                  data-bs-toggle="tab"
-                  id="login-tab"
-                  role="tab"
-                  type="button"
-                >
-                  Login
-                </button>
-              </li>
-              <li class="nav-item" role="presentation">
-                <button
-                  aria-controls="register"
-                  aria-selected="true"
-                  class="nav-link"
-                  data-bs-target="#register"
-                  data-bs-toggle="tab"
-                  id="register-tab"
-                  role="tab"
-                  type="button"
-                >
-                  Register
-                </button>
-              </li>
-            </ul>
-            <!-- tab contents -->
-            <div class="tab-content blog-full" id="postsTabContent">
-              <!-- popular posts -->
-              <div
-                aria-labelledby="login-tab"
-                class="tab-pane fade active show"
-                id="login"
-                role="tabpanel"
-              >
-                <div class="row">
-                  <div class="col-lg-6">
-                    <div class="blog-image rounded">
-                      <a
-                        href="#"
-                        style="background-image: url(images/trending/trending5.jpg)"
-                      ></a>
-                    </div>
-                  </div>
-                  <div class="col-lg-6">
-                    <h4 class="text-center border-b pb-2">Login</h4>
-                    <div
-                      class="log-reg-button d-flex align-items-center justify-content-between"
-                    >
-                      <button type="submit" class="btn btn-fb">
-                        <i class="fab fa-facebook"></i> Login with Facebook
-                      </button>
-                      <button type="submit" class="btn btn-google">
-                        <i class="fab fa-google"></i> Login with Google
-                      </button>
-                    </div>
-                    <hr class="log-reg-hr position-relative my-4 overflow-visible" />
-                    <form method="post" action="#" name="contactform" id="contactform">
-                      <div class="form-group mb-2">
-                        <input
-                          type="text"
-                          name="user_name"
-                          class="form-control"
-                          id="fname"
-                          placeholder="User Name or Email Address"
-                        />
-                      </div>
-                      <div class="form-group mb-2">
-                        <input
-                          type="password"
-                          name="password_name"
-                          class="form-control"
-                          id="lpass"
-                          placeholder="Password"
-                        />
-                      </div>
-                      <div class="form-group mb-2">
-                        <input
-                          type="checkbox"
-                          class="custom-control-input"
-                          id="exampleCheck"
-                        />
-                        <label class="custom-control-label mb-0" for="exampleCheck1"
-                          >Remember me</label
-                        >
-                        <a class="float-end" href="#">Lost your password?</a>
-                      </div>
-                      <div class="comment-btn mb-2 pb-2 text-center border-b">
-                        <input
-                          type="submit"
-                          class="nir-btn w-100"
-                          id="submit"
-                          value="Login"
-                        />
-                      </div>
-                      <p class="text-center">
-                        Don't have an account? <a href="#" class="theme">Register</a>
-                      </p>
-                    </form>
-                  </div>
-                </div>
-              </div>
-              <!-- Recent posts -->
-              <div
-                aria-labelledby="register-tab"
-                class="tab-pane fade"
-                id="register"
-                role="tabpanel"
-              >
-                <div class="row">
-                  <div class="col-lg-6">
-                    <div class="blog-image rounded">
-                      <a
-                        href="#"
-                        style="background-image: url(images/trending/trending5.jpg)"
-                      ></a>
-                    </div>
-                  </div>
-                  <div class="col-lg-6">
-                    <h4 class="text-center border-b pb-2">Register</h4>
-                    <div
-                      class="log-reg-button d-flex align-items-center justify-content-between"
-                    >
-                      <button type="submit" class="btn btn-fb">
-                        <i class="fab fa-facebook"></i> Login with Facebook
-                      </button>
-                      <button type="submit" class="btn btn-google">
-                        <i class="fab fa-google"></i> Login with Google
-                      </button>
-                    </div>
-                    <hr class="log-reg-hr position-relative my-4 overflow-visible" />
-                    <form method="post" action="#" name="contactform1" id="contactform1">
-                      <div class="form-group mb-2">
-                        <input
-                          type="text"
-                          name="user_name"
-                          class="form-control"
-                          id="fname1"
-                          placeholder="User Name"
-                        />
-                      </div>
-                      <div class="form-group mb-2">
-                        <input
-                          type="text"
-                          name="user_name"
-                          class="form-control"
-                          id="femail"
-                          placeholder="Email Address"
-                        />
-                      </div>
-                      <div class="form-group mb-2">
-                        <input
-                          type="password"
-                          name="password_name"
-                          class="form-control"
-                          id="lpass1"
-                          placeholder="Password"
-                        />
-                      </div>
-                      <div class="form-group mb-2">
-                        <input
-                          type="password"
-                          name="password_name"
-                          class="form-control"
-                          id="lrepass"
-                          placeholder="Re-enter Password"
-                        />
-                      </div>
-                      <div class="form-group mb-2 d-flex">
-                        <input
-                          type="checkbox"
-                          class="custom-control-input"
-                          id="exampleCheck1"
-                        />
-                        <label
-                          class="custom-control-label mb-0 ms-1 lh-1"
-                          for="exampleCheck1"
-                          >I have read and accept the Terms and Privacy Policy?</label
-                        >
-                      </div>
-                      <div class="comment-btn mb-2 pb-2 text-center border-b">
-                        <input
-                          type="submit"
-                          class="nir-btn w-100"
-                          id="submit1"
-                          value="Register"
-                        />
-                      </div>
-                      <p class="text-center">
-                        Already have an account? <a href="#" class="theme">Login</a>
-                      </p>
-                    </form>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+ 
+  
 </template>
 <script setup>
-import { onMounted, nextTick } from 'vue'
-import $ from 'jquery'
-import 'slick-carousel/slick/slick.css'
-import 'slick-carousel/slick/slick-theme.css'
-import 'slick-carousel'
+import { onMounted, nextTick } from "vue";
+import $ from "jquery";
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
+import "slick-carousel";
 
-import HeaderComponent from '../components/header.vue'
-import FooterComponent from '../components/footer.vue'
-import BannerComponent from '../components/banner.vue'
-import FaqAccordion from '../components/FaqAccordion.vue'
-import TeamComponent from '../components/team.vue'
+import HeaderComponent from "../components/header.vue";
+import FooterComponent from "../components/footer.vue";
+import BannerComponent from "../components/banner.vue";
+import FaqAccordion from "../components/FaqAccordion.vue";
+import TeamComponent from "../components/team.vue";
 
 onMounted(async () => {
-  await nextTick() // ensures DOM is ready before initializing Slick
+  await nextTick(); // ensures DOM is ready before initializing Slick
 
-  if ($('.side-slider').length && !$('.side-slider').hasClass('slick-initialized')) {
-    $('.side-slider').slick({
+  if ($(".side-slider").length && !$(".side-slider").hasClass("slick-initialized")) {
+    $(".side-slider").slick({
       infinite: true,
       slidesToShow: 6,
       slidesToScroll: 1,
@@ -1162,21 +1007,21 @@ onMounted(async () => {
       arrows: false,
       dots: false,
       speed: 4000,
-               loop:true,
+      loop: true,
 
       responsive: [
         {
           breakpoint: 1000,
-          settings: { slidesToShow: 3 }
+          settings: { slidesToShow: 3 },
         },
         {
           breakpoint: 500,
-          settings: { slidesToShow: 1 }
-        }
-      ]
-    })
+          settings: { slidesToShow: 1 },
+        },
+      ],
+    });
   }
-   $('.about-slider').slick({
+  $(".about-slider").slick({
     slidesToShow: 1,
     slidesToScroll: 1,
     autoplay: true,
@@ -1186,20 +1031,17 @@ onMounted(async () => {
     infinite: true,
     centerMode: true,
     variableWidth: false,
-     responsive: [{
-             breakpoint: 700,
-             settings: {
-                 arrows:false
-             }
-         }]
-  })
- 
-
-})
+    responsive: [
+      {
+        breakpoint: 700,
+        settings: {
+          arrows: false,
+        },
+      },
+    ],
+  });
+});
 </script>
-
-
-
 
 <style>
 .car-page .trend-image {
@@ -1215,5 +1057,10 @@ onMounted(async () => {
   height: 100%;
   object-fit: cover; /* garde les proportions sans déformation */
   display: block;
+}
+.car-img {
+  width: 100%;
+  height: 450px; /* you can adjust this height */
+  object-fit: cover;
 }
 </style>

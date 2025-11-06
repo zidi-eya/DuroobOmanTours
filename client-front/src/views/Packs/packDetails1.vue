@@ -59,9 +59,9 @@
 
               <div class="description-images mb-4">
                 <img
-                  src="/assets/images/destination/destination10.avif"
+                  src="/assets/images/pack/pack2.jpeg"
                   alt=""
-                  class="w-100 rounded"
+                  style="width:700px;!important"
                 />
               </div>
 

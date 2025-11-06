@@ -12,16 +12,44 @@
       <div class="insta-main pb-10">
         <div class="container">
           <div class="insta-inner">
-            <div class="follow-button">
-              <h5 class="m-0 rounded">
-                <i class="fab fa-instagram"></i> Follow on Instagram
-              </h5>
-            </div>
+            <a href="https://www.instagram.com/darb_rentacar?igsh=dGw0YWFibGZuY3Yy"
+ target="_blank" style="text-decoration: none; color: inherit;">
+  <div class="follow-button">
+    <h5 class="m-0 rounded">
+      <i class="fab fa-instagram"></i> Follow on Instagram
+    </h5>
+  </div>
+</a>
             <div class="row attract-slider">
+
+
+
+<div class="col-md-3 col-sm-6">
+                <div class="insta-image rounded">
+                  <a href="gallery.html"
+                    ><img src="/assets/images/destination/salalah (6).jpeg" alt="insta"
+                  /></a>
+                </div>
+              </div><div class="col-md-3 col-sm-6">
+                <div class="insta-image rounded">
+                  <a href="gallery.html"
+                    ><img src="/assets/images/destination/beach (2).jpg" alt="insta"
+                  /></a>
+                </div>
+              </div><div class="col-md-3 col-sm-6">
+                <div class="insta-image rounded">
+                  <a href="gallery.html"
+                    ><img src="/assets/images/destination/destination10.avif" alt="insta"
+                  /></a>
+                </div>
+              </div>
+
+
+
               <div class="col-md-3 col-sm-6">
                 <div class="insta-image rounded">
                   <a href="gallery.html"
-                    ><img src="/assets/images/destination/destination3.jpg" alt="insta"
+                    ><img src="/assets/images/destination/jebal (3).jpeg" alt="insta"
                   /></a>
                 </div>
               </div>
@@ -49,28 +77,28 @@
               <div class="col-md-3 col-sm-6">
                 <div class="insta-image rounded">
                   <a href="gallery.html"
-                    ><img src="/assets/images/destination/destination1.jpg" alt="insta"
+                    ><img src="/assets/images/destination/jebal (10).jpeg" alt="insta"
                   /></a>
                 </div>
               </div>
               <div class="col-md-3 col-sm-6">
                 <div class="insta-image rounded">
                   <a href="gallery.html"
-                    ><img src="/assets/images/destination/destination1.jpg" alt="insta"
+                    ><img src="/assets/images/destination/jebal (13).jpeg" alt="insta"
                   /></a>
                 </div>
               </div>
               <div class="col-md-3 col-sm-6">
                 <div class="insta-image rounded">
                   <a href="gallery.html"
-                    ><img src="/assets/images/destination/destination2.jpeg" alt="insta"
+                    ><img src="/assets/images/destination/salalah (3).jpeg" alt="insta"
                   /></a>
                 </div>
               </div>
               <div class="col-md-3 col-sm-6">
                 <div class="insta-image rounded">
                   <a href="gallery.html"
-                    ><img src="/assets/images/destination/destination1.jpg" alt="insta"
+                    ><img src="/assets/images/destination/destination12.png" alt="insta"
                   /></a>
                 </div>
               </div>
@@ -98,7 +126,7 @@
                   hospitality.
                 </p>
                 <ul>
-                  <li class="white"><strong>PO Box:</strong> +47-252-254-2542</li>
+                  <li class="white"><strong>PO Box:</strong> +968 9351 8889</li><br/>
                   <li class="white"><strong>Location:</strong> Oman ,Salalah</li>
                   <li class="white"><strong>Email:</strong> info@duroobomantours.com</li>
                   <li class="white"><strong>Website:</strong> www.duroobomantours.com</li>
@@ -238,7 +266,7 @@ onMounted(async () => {
     slidesToScroll: 1,
     arrows: false,
     dots: false,
-    speed: 2000,
+    speed: 5000,
     rows: 0,
     autoplay: true,
     draggable: false,

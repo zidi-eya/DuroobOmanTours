@@ -1,7 +1,22 @@
 <template>
   <HeaderComponent />
-  <BreadCrumb />
-
+<section class="breadcrumb-main pb-20 pt-14" style="background-image: url(/assets/images/destination/Salalah.jpg);">
+        <div class="section-shape section-shape1 top-inherit bottom-0" style="background-image: url(/assets/images/shape8.png);"></div>
+        <div class="breadcrumb-outer">
+            <div class="container">
+                <div class="breadcrumb-content text-center">
+                    <h1 class="mb-3">Contact Us</h1>
+                    <nav aria-label="breadcrumb" class="d-block">
+                        <ul class="breadcrumb">
+                            <li class="breadcrumb-item"><RouterLink to="/">Home</RouterLink></li>
+                            <li class="breadcrumb-item active" aria-current="page">Contact Us</li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+        <div class="dot-overlay"></div>
+    </section>
   <!-- contact starts -->
   <section class="contact-main pt-6 pb-60">
     <div class="container">
@@ -12,8 +27,7 @@
               <div class="contact-info-title text-center mb-4 px-5">
                 <h3 class="mb-1">INFORMATION ABOUT US</h3>
                 <p class="mb-0">
-                  Nous sommes une équipe dédiée à offrir des services de voyage de qualité, en mettant l’accent sur la satisfaction, la sécurité et le confort de nos clients.
-                </p>
+We are a dedicated team committed to providing high-quality travel services, with a focus on customer satisfaction, safety, and comfort.                </p>
               </div>
 
               <div class="contact-info-content row mb-1">

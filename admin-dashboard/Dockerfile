@@ -5,8 +5,8 @@ WORKDIR /app
 COPY package*.json ./
 RUN npm install
 
-# ⬇️ Ajouter la permission ici
-RUN chmod +x node_modules/@esbuild/linux-x64/bin/esbuild
+# FIX PERMISSIONS ESBUILD
+RUN chmod +x node_modules/@esbuild/linux-x64/bin/esbuild || true
 
 COPY . .
 RUN npm run build

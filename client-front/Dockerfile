@@ -5,10 +5,11 @@ WORKDIR /app
 COPY package*.json ./
 RUN npm install
 
-# FIX PERMISSIONS ESBUILD
+COPY . .
+
+# FIX PERMISSIONS ESBUILD (à cet endroit)
 RUN chmod +x node_modules/@esbuild/linux-x64/bin/esbuild || true
 
-COPY . .
 RUN npm run build
 
 # Stage 2: Serve with nginx

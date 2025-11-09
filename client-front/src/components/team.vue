@@ -53,13 +53,13 @@ const team = [
   {
     name: "Suhail Ali Jaboob",
     role: "Founder & CEO — Omani",
-    image: "/assets/images/team/souhail.jpg",
+    image: "/assets/images/team/souhail.png",
     description: "Suhail Ali Jaboob is the founder and CEO of Duroob Oman Tours, a leading travel company based in Salalah. Proudly Omani and passionate about the heritage and natural beauty of his country, he created the agency with the mission to offer travelers authentic, meaningful, and high-quality experiences across Oman. With strong leadership and a deep knowledge of local culture, Suhail ensures that every guest discovers Oman with respect, comfort, and genuine Omani hospitality..",
   },
   {
     name: "Mohamed Anis Ben Amor",
     role: "Sales Manager — Tunisian",
-    image: "/assets/images/team/anis.jpg",
+    image: "/assets/images/team/anis.png",
     description: "Mohamed Anis Ben Amor serves as the Sales Manager at Duroob Oman Tours. Originally from Tunisia, he brings extensive experience in tourism, customer service, and sales. His expertise, commitment to excellence, and multicultural background allow him to provide tailored guidance and exceptional service to each traveler. Passionate about travel and hospitality, Anis plays a key role in building customer relationships and supporting the agency’s growth and reputation..",
   },
 ];

@@ -871,7 +871,7 @@
 
               <div class="col-lg-6 col-md-6 mb-4">
                 <div class="counter-item p-3 border-all rounded">
-                  <h3 class="value mb-0 white fs-1">523</h3>
+                  <h3 class="value mb-0 white fs-1">23</h3>
                   <p class="m-0 white">Cars</p>
                 </div>
               </div>

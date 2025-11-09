@@ -127,7 +127,7 @@
               <div class="col-lg-6 col-md-6 col-sm-6 mb-4">
                 <div class="trend-item1">
                   <div class="trend-image position-relative rounded">
-                    <img src="/assets/images/destination/beach (8).jpeg" alt="image" />
+                    <img src="/assets/images/destination/bhar.jpg" alt="image" />
                     <div
                       class="trend-content d-flex align-items-center justify-content-between position-absolute bottom-0 p-4 w-100 z-index"
                     >
@@ -265,21 +265,16 @@
                 </p>
                 <br/>
                 <br/>
-                <br/>
-                <br/>
                 
-                <div class="about-listing">
+               <!-- <div class="about-listing">
                   <ul class="d-flex justify-content-between">
                     <li><i class="icon-location-pin theme"></i> Tour</li>
                     <li><i class="icon-briefcase theme"></i> Friendly Price</li>
                     <li><i class="icon-folder theme"></i> Reliable Tour Package</li>
                   </ul>
-                </div>
+                </div>-->
               </div>
             </div><br/>
-                <br/>
-                <br/>
-                <br/>
             <div class="col-lg-12">
               <!-- Counter -->
               <div class="counter-main w-75 float-end">

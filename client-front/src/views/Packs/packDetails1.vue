@@ -182,29 +182,7 @@
                         </div>
                       </div>
                     </div>
-                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                      <div class="gallery-item mb-4 rounded overflow-hidden">
-                        <div class="gallery-image">
-                          <img
-                            src="/assets/images/destination/destination10.avif"
-                            alt="image"
-                          />
-
-                          <div class="gallery-content">
-                            <ul>
-                              <li>
-                                <a
-                                  href="/assets/images/destination/destination10.avif"
-                                  data-lightbox="gallery"
-                                  data-title="Title"
-                                  ><i class="fa fa-eye"></i
-                                ></a>
-                              </li>
-                            </ul>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
+                   
                     <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
                       <div class="gallery-item mb-4 rounded overflow-hidden">
                         <div class="gallery-image">
@@ -415,51 +393,7 @@
   <!-- top Destination ends -->
 
   <!-- Discount action starts -->
-  <section
-    class="discount-action pt-0"
-    style="background-image: url(images/section-bg1.png); background-position: center"
-  >
-    <div class="container">
-      <div class="call-banner rounded pt-10 pb-14">
-        <div class="call-banner-inner w-75 mx-auto text-center px-5">
-          <div class="trend-content-main">
-            <div class="trend-content mb-5 pb-2 px-5">
-              <h5 class="mb-1 theme">Love Where Your're Going</h5>
-              <h2>
-                <a href="detail-fullwidth.html"
-                  >Explore Your Life,
-                  <span class="theme1"> Travel Where You Want!</span></a
-                >
-              </h2>
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua.
-              </p>
-            </div>
-            <div class="video-button text-center position-relative">
-              <div class="call-button text-center">
-                <button
-                  type="button"
-                  class="play-btn js-video-button"
-                  data-video-id="152879427"
-                  data-channel="vimeo"
-                >
-                  <i class="fa fa-play bg-blue"></i>
-                </button>
-              </div>
-              <div class="video-figure"></div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="white-overlay"></div>
-    <div class="white-overlay"></div>
-    <div
-      class="section-shape top-inherit bottom-0"
-      style="background-image: url(images/shape6.png)"
-    ></div>
-  </section>
+  
   <!-- Discount action Ends -->
 
   <!-- partner starts -->

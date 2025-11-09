@@ -1,0 +1,71 @@
+version: '3.8'
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: mysql
+    restart: always
+    env_file:
+      - .env.mysql
+    volumes:
+      - dbdata:/var/lib/mysql
+
+  redis:
+    image: redis:7
+    container_name: redis
+    restart: always
+
+  backend:
+    build:
+      context: ./backend-duroob
+      dockerfile: Dockerfile
+    container_name: backend
+    env_file:
+      - ./backend-duroob/.env
+    depends_on:
+      - mysql
+      - redis
+    volumes:
+      - ./backend-duroob:/var/www/html
+    expose:
+      - "9000"
+
+  frontend-builder:
+    build:
+      context: ./client-front
+      dockerfile: Dockerfile
+    container_name: frontend-builder
+    working_dir: /app
+    volumes:
+      - ./client-front:/app
+    command: sh -c "npm install --legacy-peer-deps && npm run build"
+
+  admin-builder:
+    build:
+      context: ./admin-dashboard
+      dockerfile: Dockerfile
+    container_name: admin-builder
+    working_dir: /app
+    volumes:
+      - ./admin-dashboard:/app
+    command: sh -c "npm install --legacy-peer-deps && npm run build"
+
+  nginx:
+    image: nginx:stable
+    container_name: nginx
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx/conf.d:/etc/nginx/conf.d
+      - ./backend-duroob/public:/var/www/backend/public
+      - ./client-front/dist:/var/www/frontend
+      - ./admin-dashboard/dist:/var/www/admin
+      - ./letsencrypt:/etc/letsencrypt
+    depends_on:
+     - backend
+     - frontend-builder
+     - admin-builder
+    restart: always
+
+volumes:
+  dbdata:

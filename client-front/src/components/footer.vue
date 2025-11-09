@@ -39,7 +39,7 @@
               </div><div class="col-md-3 col-sm-6">
                 <div class="insta-image rounded">
                   <a href="gallery.html"
-                    ><img src="/assets/images/destination/destination10.avif" alt="insta"
+                    ><img src="/assets/images/destination/jebal (9).jpeg" alt="insta"
                   /></a>
                 </div>
               </div>

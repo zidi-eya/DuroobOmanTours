@@ -4,13 +4,16 @@ services:
   mysql:
     image: mysql:8.0
     container_name: mysql
-    restart: always
-    env_file:
-      - .env.mysql
-    volumes:
-      - dbdata:/var/lib/mysql
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: DuR00b@Root2025!
+      MYSQL_DATABASE: duroobomantours
+      MYSQL_USER: duroobuser
+      MYSQL_PASSWORD: DuR00b@User2025!
     ports:
       - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
 
   redis:
     image: redis:7
@@ -64,8 +67,9 @@ services:
     volumes:
       - ./nginx/conf.d:/etc/nginx/conf.d
       - ./certbot/www:/var/www/certbot
-      - ./nginx/ssl:/etc/letsencrypt
+      - /etc/letsencrypt:/etc/letsencrypt   # <- use host path
     restart: always
+
 
   certbot:
     image: certbot/certbot
@@ -75,4 +79,5 @@ services:
       - ./nginx/ssl:/etc/letsencrypt
 
 volumes:
-  dbdata:
+  mysql_data:
+

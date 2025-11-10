@@ -7,7 +7,7 @@
       <div class="comingsoon-content text-center">
         <div class="coming-title mb-3">
           <div class="logo-main mb-4">
-            <img src="/assets/images/logo-white.png" alt="logo" />
+            <img src="/assets/images/logo-whit.png" alt="logo" />
           </div>
           <h1 class="white m-0">
             Under <span class="theme1">Construction</span>

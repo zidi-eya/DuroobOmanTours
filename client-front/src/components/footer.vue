@@ -26,21 +26,21 @@
 
 <div class="col-md-3 col-sm-6">
                 <div class="insta-image rounded">
-                  <a href="gallery.html"
+                  <RouterLink to="/pack"
                     ><img src="/assets/images/destination/salalah (6).jpeg" alt="insta"
-                  /></a>
+                  /></RouterLink>
                 </div>
               </div><div class="col-md-3 col-sm-6">
                 <div class="insta-image rounded">
-                  <a href="gallery.html"
+                  <RouterLink to="/pack"
                     ><img src="/assets/images/destination/beach (2).jpg" alt="insta"
-                  /></a>
+                  /></RouterLink>
                 </div>
               </div><div class="col-md-3 col-sm-6">
                 <div class="insta-image rounded">
-                  <a href="gallery.html"
+                  <RouterLink to="/pack"
                     ><img src="/assets/images/destination/jebal (9).jpeg" alt="insta"
-                  /></a>
+                  /></RouterLink>
                 </div>
               </div>
 
@@ -48,65 +48,65 @@
 
               <div class="col-md-3 col-sm-6">
                 <div class="insta-image rounded">
-                  <a href="gallery.html"
+                  <RouterLink to="/pack"
                     ><img src="/assets/images/destination/jebal (3).jpeg" alt="insta"
-                  /></a>
+                  /></RouterLink>
                 </div>
               </div>
               <div class="col-md-3 col-sm-6">
                 <div class="insta-image rounded">
-                  <a href="gallery.html"
+                  <RouterLink to="/pack"
                     ><img src="/assets/images/destination/destination4.jpg" alt="insta"
-                  /></a>
+                  /></RouterLink>
                 </div>
               </div>
               <div class="col-md-3 col-sm-6">
                 <div class="insta-image rounded">
-                  <a href="gallery.html"
+                  <RouterLink to="/pack"
                     ><img src="/assets/images/destination/destination5.jpg" alt="insta"
-                  /></a>
+                  /></RouterLink>
                 </div>
               </div>
               <div class="col-md-3 col-sm-6">
                 <div class="insta-image rounded">
-                  <a href="gallery.html"
+                  <RouterLink to="/pack"
                     ><img src="/assets/images/destination/destination1.jpg" alt="insta"
-                  /></a>
+                  /></RouterLink>
                 </div>
               </div>
               <div class="col-md-3 col-sm-6">
                 <div class="insta-image rounded">
-                  <a href="gallery.html"
+                  <RouterLink to="/pack"
                     ><img src="/assets/images/destination/jebal (10).jpeg" alt="insta"
-                  /></a>
+                  /></RouterLink>
                 </div>
               </div>
               <div class="col-md-3 col-sm-6">
                 <div class="insta-image rounded">
-                  <a href="gallery.html"
+                  <RouterLink to="/pack"
                     ><img src="/assets/images/destination/jebal (13).jpeg" alt="insta"
-                  /></a>
+                  /></RouterLink>
                 </div>
               </div>
               <div class="col-md-3 col-sm-6">
                 <div class="insta-image rounded">
-                  <a href="gallery.html"
+                  <RouterLink to="/pack"
                     ><img src="/assets/images/destination/salalah (3).jpeg" alt="insta"
-                  /></a>
+                  /></RouterLink>
                 </div>
               </div>
               <div class="col-md-3 col-sm-6">
                 <div class="insta-image rounded">
-                  <a href="gallery.html"
+                  <RouterLink to="/pack"
                     ><img src="/assets/images/destination/destination12.png" alt="insta"
-                  /></a>
+                  /></RouterLink>
                 </div>
               </div>
               <div class="col-md-3 col-sm-6">
                 <div class="insta-image rounded">
-                  <a href="gallery.html"
+                  <RouterLink to="/pack"
                     ><img src="/assets/images/destination/destination9.jpg" alt="insta"
-                  /></a>
+                  /></RouterLink>
                 </div>
               </div>
             </div>
@@ -144,7 +144,7 @@
                     <RouterLink to="/rentcar" class="nav-link">Rent Car</RouterLink>
                   </li>
 
-                  <li><RouterLink to="/packs" class="nav-link">Packs </RouterLink></li>
+                  <li><RouterLink to="/pack" class="nav-link">Packs </RouterLink></li>
                 </ul>
               </div>
             </div>
@@ -234,14 +234,10 @@
             </div>
             <div class="social-links">
               <ul>
+               
+                
                 <li>
-                  <a href="#"><i class="fab fa-facebook" aria-hidden="true"></i></a>
-                </li>
-                <li>
-                  <a href="#"><i class="fab fa-twitter" aria-hidden="true"></i></a>
-                </li>
-                <li>
-                  <a href="#"><i class="fab fa-instagram" aria-hidden="true"></i></a>
+                  <a href="https://www.instagram.com/darb_rentacar?igsh=dGw0YWFibGZuY3Yy"><i class="fab fa-instagram" aria-hidden="true"></i></a>
                 </li>
               </ul>
             </div>

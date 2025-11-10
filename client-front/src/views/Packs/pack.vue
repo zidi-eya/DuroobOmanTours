@@ -164,7 +164,7 @@
                Discover amazing tour packages designed for every kind of traveler. From adventure to relaxation, find the journey that’s made for you.
               </p>
             </div>
-            <div class="video-button text-center position-relative">
+           <!-- <div class="video-button text-center position-relative">
               <div class="call-button text-center">
                 <button
                   type="button"
@@ -176,7 +176,7 @@
                 </button>
               </div>
               <div class="video-figure"></div>
-            </div>
+            </div>-->
           </div>
         </div>
       </div>

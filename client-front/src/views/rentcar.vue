@@ -775,6 +775,7 @@
     </div>
   </section>
   <!-- best tour Ends -->
+    <partnerComponent />
 
   <!-- Discount action starts -->
   <section
@@ -802,16 +803,15 @@
                 and adventure.
               </p>
             </div>
-            <div class="video-button position-relative ms-lg-5 text-center text-lg-start">
+             <!-- <div class="video-button position-relative ms-lg-5 text-center text-lg-start">
               <div class="call-button">
-                <!-- Retirer js-video-button -->
                 <button type="button" class="play-btn" id="playLocalVideo">
                   <i class="fa fa-play bg-blue"></i>
                 </button>
               </div>
 
               <div class="video-figure">
-                <!-- <video
+               <video
                   id="localVideo"
                   class="w-100"
                   style="display: none; border-radius: 15px"
@@ -819,9 +819,9 @@
                 >
                   <source src="/assets/images/tour.MP4" type="video/mp4" />
                   Your browser does not support the video tag.
-                </video>-->
+                </video>
               </div>
-            </div>
+            </div>-->
           </div>
         </div>
       </div>
@@ -989,13 +989,14 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import "slick-carousel";
 
+import partnerComponent from "../components/partner.vue";
 import HeaderComponent from "../components/header.vue";
 import FooterComponent from "../components/footer.vue";
-import BannerComponent from "../components/banner.vue";
-import FaqAccordion from "../components/FaqAccordion.vue";
-import TeamComponent from "../components/team.vue";
 
+// onMounted remplace `mounted()`
 onMounted(async () => {
+  console.log("Tours List page loaded");
+
   await nextTick(); // ensures DOM is ready before initializing Slick
 
   if ($(".side-slider").length && !$(".side-slider").hasClass("slick-initialized")) {
@@ -1008,19 +1009,13 @@ onMounted(async () => {
       dots: false,
       speed: 4000,
       loop: true,
-
       responsive: [
-        {
-          breakpoint: 1000,
-          settings: { slidesToShow: 3 },
-        },
-        {
-          breakpoint: 500,
-          settings: { slidesToShow: 1 },
-        },
+        { breakpoint: 1000, settings: { slidesToShow: 3 } },
+        { breakpoint: 500, settings: { slidesToShow: 1 } },
       ],
     });
   }
+
   $(".about-slider").slick({
     slidesToShow: 1,
     slidesToScroll: 1,
@@ -1032,16 +1027,12 @@ onMounted(async () => {
     centerMode: true,
     variableWidth: false,
     responsive: [
-      {
-        breakpoint: 700,
-        settings: {
-          arrows: false,
-        },
-      },
+      { breakpoint: 700, settings: { arrows: false } },
     ],
   });
 });
 </script>
+
 
 <style>
 .car-page .trend-image {

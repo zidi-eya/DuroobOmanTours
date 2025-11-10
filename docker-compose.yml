@@ -1,4 +1,5 @@
 version: '3.8'
+
 services:
   mysql:
     image: mysql:8.0
@@ -8,6 +9,8 @@ services:
       - .env.mysql
     volumes:
       - dbdata:/var/lib/mysql
+    ports:
+      - "3306:3306"
 
   redis:
     image: redis:7
@@ -28,44 +31,48 @@ services:
       - ./backend-duroob:/var/www/html
     expose:
       - "9000"
+    restart: always
 
-  frontend-builder:
+  frontend:
     build:
       context: ./client-front
       dockerfile: Dockerfile
-    container_name: frontend-builder
-    working_dir: /app
-    volumes:
-      - ./client-front:/app
-    command: sh -c "npm install --legacy-peer-deps && npm run build"
+    container_name: frontend
+    expose:
+      - "80"
+    restart: always
 
-  admin-builder:
+  admin:
     build:
       context: ./admin-dashboard
       dockerfile: Dockerfile
-    container_name: admin-builder
-    working_dir: /app
-    volumes:
-      - ./admin-dashboard:/app
-    command: sh -c "npm install --legacy-peer-deps && npm run build"
+    container_name: admin
+    expose:
+      - "80"
+    restart: always
 
   nginx:
     image: nginx:stable
     container_name: nginx
+    depends_on:
+      - backend
+      - frontend
+      - admin
     ports:
       - "80:80"
       - "443:443"
     volumes:
       - ./nginx/conf.d:/etc/nginx/conf.d
-      - ./backend-duroob/public:/var/www/backend/public
-      - ./client-front/dist:/var/www/frontend
-      - ./admin-dashboard/dist:/var/www/admin
-      - ./letsencrypt:/etc/letsencrypt
-    depends_on:
-     - backend
-     - frontend-builder
-     - admin-builder
+      - ./certbot/www:/var/www/certbot
+      - ./nginx/ssl:/etc/letsencrypt
     restart: always
+
+  certbot:
+    image: certbot/certbot
+    container_name: certbot
+    volumes:
+      - ./certbot/www:/var/www/certbot
+      - ./nginx/ssl:/etc/letsencrypt
 
 volumes:
   dbdata:

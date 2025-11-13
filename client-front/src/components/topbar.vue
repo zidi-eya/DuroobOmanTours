@@ -27,6 +27,8 @@
         <div class="links float-right">
           <ul>
             <li><a href="https://www.instagram.com/darb_rentacar?igsh=dGw0YWFibGZuY3Yy" class="white"><i class="fab fa-instagram"></i></a></li>
+                 <li>                <a href="https://wa.me/+96893518889"class="white"><i class="fab fa-whatsapp" aria-hidden="true"></i></a>   </li>
+
           </ul>
         </div>
       </div>

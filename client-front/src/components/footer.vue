@@ -221,15 +221,11 @@
           >
             <div class="copyright-text">
               <p class="m-0 white">
-                2025 Duroob Oman Tours. All rights reserved To
-                <a
-                  href="https://wa.me/21629310122"
+                  © 2025 Duroob Oman Tours. All rights reserved.                <a
                   target="_blank"
                   style="color: #fff; text-decoration: underline"
                 >
-                  ZIDI EYA
-                </a>
-                <span style="color: red">❤</span>.
+Developed by Eya Zidi.                 </a>
               </p>
             </div>
             <div class="social-links">
@@ -238,6 +234,7 @@
                 
                 <li>
                   <a href="https://www.instagram.com/darb_rentacar?igsh=dGw0YWFibGZuY3Yy"><i class="fab fa-instagram" aria-hidden="true"></i></a>
+                  <a href="https://wa.me/+96893518889"><i class="fab fa-whatsapp" aria-hidden="true"></i></a>
                 </li>
               </ul>
             </div>

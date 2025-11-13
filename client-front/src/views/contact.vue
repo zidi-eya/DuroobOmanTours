@@ -51,7 +51,7 @@ We are a dedicated team committed to providing high-quality travel services, wit
                     <div class="info-content">
                       <h3>Phone Number</h3>
                       <p class="m-0">+968 9351 8889</p>
-                      <p class="m-0">++968 7753 53438</p>
+                      <p class="m-0">+968 7753 5343</p>
                         <p class="m-0">+968 9297 5322</p>
                   </div>
                   </div>
@@ -64,9 +64,9 @@ We are a dedicated team committed to providing high-quality travel services, wit
                     </div>
                     <div class="info-content ps-4">
                       <h3>Email Address</h3>
-                      <p class="m-0">info@Durrobomantours.com</p>
-                      <p class="m-0">sales@Durrobomantours.com</p>
-                                            <p class="m-0">manager@Durrobomantours.com</p>
+                      <p class="m-0">info@Duroobomantours.com</p>
+                      <p class="m-0">sales@Duroobomantours.com</p>
+                      <p class="m-0">manager@Duroobomantours.com</p>
 
                     </div>
                   </div>

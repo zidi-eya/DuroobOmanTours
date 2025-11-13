@@ -26,7 +26,6 @@
 
         <div class="links float-right">
           <ul>
-            <li><a href="#" class="white"><i class="fab fa-facebook"></i></a></li>
             <li><a href="https://www.instagram.com/darb_rentacar?igsh=dGw0YWFibGZuY3Yy" class="white"><i class="fab fa-instagram"></i></a></li>
           </ul>
         </div>

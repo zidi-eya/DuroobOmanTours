@@ -670,9 +670,9 @@
                 <div class="entry-meta d-flex align-items-center justify-content-between">
                   <div class="entry-author d-flex align-items-center">
                     <p class="mb-0">
-                      <span class="theme fw-bold fs-5"> 18 omr / jour </span>
-                      <span class="theme fw-bold fs-5"> 120 omr / semaine </span>
-                      <span class="theme fw-bold fs-5"> 280 omr / mois </span>
+                      <span class="theme fw-bold fs-5"> 18 OMR/Day </span>
+                      <span class="theme fw-bold fs-5"> 120 OMR/Week </span>
+                      <span class="theme fw-bold fs-5"> 280 OMR/Month </span>
                     </p>
                   </div>
                 </div>
@@ -699,13 +699,13 @@
                 <div class="entry-meta d-flex align-items-center justify-content-between">
                   <div class="entry-author d-flex align-items-center">
                     <p class="mb-0">
-                      <span class="theme fw-bold fs-5"> 25 omr / jour </span>
+                      <span class="theme fw-bold fs-5"> 25 OMR/Day </span>
                     </p>
                     <p class="mb-0">
-                      <span class="theme fw-bold fs-5"> 150 omr / semaine </span>
+                      <span class="theme fw-bold fs-5"> 150 OMR/Week </span>
                     </p>
                     <p class="mb-0">
-                      <span class="theme fw-bold fs-5"> 320 omr / mois </span>
+                      <span class="theme fw-bold fs-5"> 320 OMR/Month </span>
                     </p>
                   </div>
                 </div>
@@ -732,9 +732,9 @@
                 <div class="entry-meta d-flex align-items-center justify-content-between">
                   <div class="entry-author d-flex align-items-center">
                     <p class="mb-0">
-                      <span class="theme fw-bold fs-5"> 60 omr / jour </span>
-                      <span class="theme fw-bold fs-5"> 380 omr / semaine </span>
-                      <span class="theme fw-bold fs-5"> 750 omr / mois </span>
+                      <span class="theme fw-bold fs-5"> 60 OMR/Day </span>
+                      <span class="theme fw-bold fs-5"> 380 OMR/Week </span>
+                      <span class="theme fw-bold fs-5"> 750 OMR/Month </span>
                     </p>
                   </div>
                 </div>
@@ -761,9 +761,9 @@
                 <div class="entry-meta d-flex align-items-center justify-content-between">
                   <div class="entry-author d-flex align-items-center">
                     <p class="mb-0">
-                      <span class="theme fw-bold fs-5"> 45 omr / jour </span>
-                      <span class="theme fw-bold fs-5"> 250 omr /semaine </span>
-                      <span class="theme fw-bold fs-5"> 450 omr / mois </span>
+                      <span class="theme fw-bold fs-5"> 45 OMR/Day </span>
+                      <span class="theme fw-bold fs-5"> 250 OMR/Week </span>
+                      <span class="theme fw-bold fs-5"> 450 OMR/Month </span>
                     </p>
                   </div>
                 </div>

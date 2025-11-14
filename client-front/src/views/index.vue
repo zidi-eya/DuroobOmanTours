@@ -327,6 +327,47 @@
     </section>
     <!-- about-us ends -->
 
+
+ <!-- Discount action starts -->
+  <section class="discount-action pt-0" style="background-image:url(/assets/images/section-bg1.png); background-position:center;">
+  <div class="container">
+    <div class="call-banner rounded pt-10 pb-14">
+      <div class="call-banner-inner w-75 mx-auto text-center px-5">
+        <div class="trend-content-main">
+          <div class="trend-content mb-5 pb-2 px-5">
+            <h5 class="mb-1 theme">Love Where You’re Going</h5>
+            <h2><a href="#">Explore Your Life, <span class="theme1">Travel Where You Want!</span></a></h2>
+            <p>Discover the hidden paradise of Salalah, Oman, where lush green mountains meet pristine beaches. Experience its tropical charm, breathtaking waterfalls, and rich cultural heritage that make it a true gem of the Arabian Peninsula.</p>
+          </div>
+          <div class="video-button text-center position-relative">
+            <div class="call-button text-center">
+              <button id="playVideoBtn" type="button" class="play-btn">
+                <i class="fa fa-play bg-blue"></i>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>     
+  </div>    
+
+  <div class="white-overlay"></div>
+  <div class="section-shape top-inherit bottom-0" style="background-image: url(/assets/images/shape6.png);"></div>
+</section>
+
+<!-- Video Modal -->
+<div id="videoModal" class="video-modal">
+  <div class="video-content">
+    <span id="closeVideo" class="close-btn">&times;</span>
+    <video id="tourVideo" controls autoplay>
+      <source src="/assets/images/tour1.MP4" type="video/mp4">
+      Your browser does not support HTML5 video.
+    </video>
+  </div>
+</div>
+
+
+
     <FaqAccordion />
     <TeamComponent />
 
@@ -334,25 +375,78 @@
   </div>
 </template>
 
-<script>
+
+<script setup>
 import HeaderComponent from "../components/header.vue";
 import BannerComponent from "../components/banner.vue";
 import FooterComponent from "../components/footer.vue";
 import FaqAccordion from "../components/FaqAccordion.vue";
 import TeamComponent from "../components/team.vue";
+import { onMounted } from "vue";
 
-export default {
-  name: "ToursListView",
-  components: {
-    HeaderComponent,
-    BannerComponent,
-    FooterComponent,
-    FaqAccordion,
-    TeamComponent,
-    // ✅ Déclaration ici
-  },
-  mounted() {
-    console.log("Tours List page loaded");
-  },
-};
+onMounted(() => {
+  const playBtn = document.getElementById("playVideoBtn");
+  const videoModal = document.getElementById("videoModal");
+  const closeBtn = document.getElementById("closeVideo");
+  const video = document.getElementById("tourVideo");
+
+  if (playBtn && videoModal && closeBtn && video) {
+    playBtn.addEventListener("click", () => {
+      videoModal.style.display = "flex";
+      video.play();
+    });
+
+    closeBtn.addEventListener("click", () => {
+      video.pause();
+      video.currentTime = 0;
+      videoModal.style.display = "none";
+    });
+
+    window.addEventListener("click", (e) => {
+      if (e.target === videoModal) {
+        video.pause();
+        videoModal.style.display = "none";
+      }
+    });
+  }
+});
 </script>
+
+
+
+
+
+<style>
+.video-modal {
+  display: none;
+  position: fixed;
+  z-index: 9999;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.8);
+  justify-content: center;
+  align-items: center;
+}
+
+.video-content {
+  position: relative;
+  width: 80%;
+  max-width: 800px;
+}
+
+.video-content video {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.close-btn {
+  position: absolute;
+  top: -30px;
+  right: 0;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
+</style>

@@ -61,7 +61,7 @@
                 <img
                   src="/assets/images/pack/pack1.png"
                   alt=""
-                  style="width:700px;!important"
+                  style="width:700px !important;"
                 />
               </div>
 
@@ -175,7 +175,13 @@
                 </div>
               </div>
             </div>
-            <div class="gallery pt-6 pb-0">
+          
+
+
+
+
+
+  <div class="gallery pt-6 pb-0">
               <div class="container">
                 <div class="section-title mb-6 text-center w-75 mx-auto">
                   <h4 class="mb-2">Gallery</h4>
@@ -185,14 +191,14 @@
                       <div class="gallery-item mb-4 rounded overflow-hidden">
                         <div class="gallery-image">
                           <img
-                            src="/assets/images/destination/salalah (1).jpeg"
+                            src="/assets/images/destination/beach (1).jpeg"
                             alt="image"
                           />
                           <div class="gallery-content">
                             <ul>
                               <li>
                                 <a
-                                  href="/assets/images/destination/salalah (1).jpeg"
+                                  href="/assets/images/destination/beach (1).jpeg"
                                   data-lightbox="gallery"
                                   data-title="Title"
                                   ><i class="fa fa-eye"></i
@@ -207,7 +213,7 @@
                       <div class="gallery-item mb-4 rounded overflow-hidden">
                         <div class="gallery-image">
                           <img
-                            src="/assets/images/destination/salalah (2).jpeg"
+                            src="/assets/images/destination/beach (1).jpg"
                             alt="image"
                           />
 
@@ -215,7 +221,7 @@
                             <ul>
                               <li>
                                 <a
-                                  href="/assets/images/destination/salalah (2).jpeg"
+                                  href="/assets/images/destination/beach (1).jpg"
                                   data-lightbox="gallery"
                                   data-title="Title"
                                   ><i class="fa fa-eye"></i
@@ -229,38 +235,12 @@
                     <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
                       <div class="gallery-item mb-4 rounded overflow-hidden">
                         <div class="gallery-image">
-                          <img
-                            src="/assets/images/destination/salalah (3).jpeg"
-                            alt="image"
-                          />
+                          <img src="/assets/images/destination/beach (2).jpg" alt="image" />
                           <div class="gallery-content">
                             <ul>
                               <li>
                                 <a
-                                  href="/assets/images/destination/salalah (3).jpeg"
-                                  data-lightbox="gallery"
-                                  data-title="Title"
-                                  ><i class="fa fa-eye"></i
-                                ></a>
-                              </li>
-                            </ul>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
-                      <div class="gallery-item mb-4 rounded overflow-hidden">
-                        <div class="gallery-image">
-                          <img
-                            src="/assets/images/destination/salalah (4).jpeg"
-                            alt="image"
-                          />
-                          <div class="gallery-content">
-                            <ul>
-                              <li>
-                                <a
-                                  href="/assets/images/destination/salalah (4).jpeg"
+                                  href="/assets/images/destination/beach (2).jpg"
                                   data-lightbox="gallery"
                                   data-title="Title"
                                   ><i class="fa fa-eye"></i
@@ -276,14 +256,37 @@
                       <div class="gallery-item mb-4 rounded overflow-hidden">
                         <div class="gallery-image">
                           <img
-                            src="/assets/images/destination/salalah (5).jpeg"
+                            src="/assets/images/destination/beach (2).jpeg"
                             alt="image"
                           />
                           <div class="gallery-content">
                             <ul>
                               <li>
                                 <a
-                                  href="/assets/images/destination/salalah (5).jpeg"
+                                  href="/assets/images/destination/beach (2).jpeg"
+                                  data-lightbox="gallery"
+                                  data-title="Title"
+                                  ><i class="fa fa-eye"></i
+                                ></a>
+                              </li>
+                            </ul>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                      <div class="gallery-item mb-4 rounded overflow-hidden">
+                        <div class="gallery-image">
+                          <img
+                            src="/assets/images/destination/beach (3).jpeg"
+                            alt="image"
+                          />
+                          <div class="gallery-content">
+                            <ul>
+                              <li>
+                                <a
+                                  href="/assets/images/destination/beach (3).jpeg"
                                   data-lightbox="gallery"
                                   data-title="Title"
                                   ><i class="fa fa-eye"></i
@@ -299,14 +302,14 @@
                       <div class="gallery-item mb-4 rounded overflow-hidden">
                         <div class="gallery-image">
                           <img
-                            src="/assets/images/destination/salalah (6).jpeg"
+                            src="/assets/images/destination/beach (4).jpeg"
                             alt="image"
                           />
                           <div class="gallery-content">
                             <ul>
                               <li>
                                 <a
-                                  href="/assets/images/destination/salalah (6).jpeg"
+                                  href="/assets/images/destination/beach (4).jpeg"
                                   data-lightbox="gallery"
                                   data-title="Title"
                                   ><i class="fa fa-eye"></i
@@ -322,14 +325,14 @@
                       <div class="gallery-item mb-4 rounded overflow-hidden">
                         <div class="gallery-image">
                           <img
-                            src="/assets/images/destination/salalah (7).jpeg"
+                            src="/assets/images/destination/beach (5).jpeg"
                             alt="image"
                           />
                           <div class="gallery-content">
                             <ul>
                               <li>
                                 <a
-                                  href="/assets/images/destination/salalah (7).jpeg"
+                                  href="/assets/images/destination/beach (5).jpeg"
                                   data-lightbox="gallery"
                                   data-title="Title"
                                   ><i class="fa fa-eye"></i
@@ -345,14 +348,14 @@
                       <div class="gallery-item mb-4 rounded overflow-hidden">
                         <div class="gallery-image">
                           <img
-                            src="/assets/images/destination/salalah (8).jpeg"
+                            src="/assets/images/destination/beach (6).jpeg"
                             alt="image"
                           />
                           <div class="gallery-content">
                             <ul>
                               <li>
                                 <a
-                                  href="/assets/images/destination/salalah (8).jpeg"
+                                  href="/assets/images/destination/beach (6).jpeg"
                                   data-lightbox="gallery"
                                   data-title="Title"
                                   ><i class="fa fa-eye"></i
@@ -368,14 +371,14 @@
                       <div class="gallery-item mb-4 rounded overflow-hidden">
                         <div class="gallery-image">
                           <img
-                            src="/assets/images/destination/salalah (9).jpeg"
+                            src="/assets/images/destination/beach (7).jpeg"
                             alt="image"
                           />
                           <div class="gallery-content">
                             <ul>
                               <li>
                                 <a
-                                  href="/assets/images/destination/salalah (9).jpeg"
+                                  href="/assets/images/destination/beach (7).jpeg"
                                   data-lightbox="gallery"
                                   data-title="Title"
                                   ><i class="fa fa-eye"></i
@@ -386,10 +389,87 @@
                         </div>
                       </div>
                     </div>
+
+
+
+
+
+
+  <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                      <div class="gallery-item mb-4 rounded overflow-hidden">
+                        <div class="gallery-image">
+                          <img
+                            src="/assets/images/destination/beach (8).jpeg"
+                            alt="image"
+                          />
+                          <div class="gallery-content">
+                            <ul>
+                              <li>
+                                <a
+                                  href="/assets/images/destination/beach (8).jpeg"
+                                  data-lightbox="gallery"
+                                  data-title="Title"
+                                  ><i class="fa fa-eye"></i
+                                ></a>
+                              </li>
+                            </ul>
+                          </div>
+                        </div>
+                      </div>
+                    </div>  <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                      <div class="gallery-item mb-4 rounded overflow-hidden">
+                        <div class="gallery-image">
+                          <img
+                            src="/assets/images/destination/beach (9).jpeg"
+                            alt="image"
+                          />
+                          <div class="gallery-content">
+                            <ul>
+                              <li>
+                                <a
+                                  href="/assets/images/destination/beach (9).jpeg"
+                                  data-lightbox="gallery"
+                                  data-title="Title"
+                                  ><i class="fa fa-eye"></i
+                                ></a>
+                              </li>
+                            </ul>
+                          </div>
+                        </div>
+                      </div>
+                    </div>  <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                      <div class="gallery-item mb-4 rounded overflow-hidden">
+                        <div class="gallery-image">
+                          <img
+                            src="/assets/images/destination/beach (10).jpeg"
+                            alt="image"
+                          />
+                          <div class="gallery-content">
+                            <ul>
+                              <li>
+                                <a
+                                  href="/assets/images/destination/beach (10).jpeg"
+                                  data-lightbox="gallery"
+                                  data-title="Title"
+                                  ><i class="fa fa-eye"></i
+                                ></a>
+                              </li>
+                            </ul>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+
+
                   </div>
                 </div>
               </div>
             </div>
+
+
+
+
 
             <!-- <div  id="single-map" class="single-map mb-4">
                             <h4>Map</h4>

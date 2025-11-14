@@ -61,7 +61,7 @@
                 <img
                   src="/assets/images/pack/pack4.jpeg"
                   alt=""
-                  style="width:700px;!important"
+                  style="width:700px !important;"
                 />
               </div>
 

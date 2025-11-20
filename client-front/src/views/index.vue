@@ -355,7 +355,7 @@
   <div class="section-shape top-inherit bottom-0" style="background-image: url(/assets/images/shape6.png);"></div>
 </section>
 
-<!-- Video Modal -->
+<!-- Video Modal 
 <div id="videoModal" class="video-modal">
   <div class="video-content">
     <span id="closeVideo" class="close-btn">&times;</span>
@@ -364,7 +364,7 @@
       Your browser does not support HTML5 video.
     </video>
   </div>
-</div>
+</div>-->
 
 
 
